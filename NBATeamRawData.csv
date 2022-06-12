@@ -1,0 +1,907 @@
+NBA Team ID,Year,Season,NBA Team,Payroll NBA Team,Host City,Population,Payroll,W,L,W%,Reg. Season Placement,Out of,Achievements,Playoff,Achievement Category,Global Ranking
+Atlanta Hawks_1990-91,1990,1990-91,Atlanta Hawks,Atlanta,Atlanta,2184000,23340645,43,39,0.524,4,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Atlanta Hawks_1991-92,1991,1991-92,Atlanta Hawks,Atlanta,Atlanta,2292000,24509666,38,44,0.463,5,7,,No,6,17
+Atlanta Hawks_1992-93,1992,1992-93,Atlanta Hawks,Atlanta,Atlanta,2406000,33164237,43,39,0.524,4,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Atlanta Hawks_1993-94,1993,1993-94,Atlanta Hawks,Atlanta,Atlanta,2525000,40187045,57,25,0.695,1,7,Lost E. Conf. Semis,Yes,4,5
+Atlanta Hawks_1994-95,1994,1994-95,Atlanta Hawks,Atlanta,Atlanta,2650000,38093574,42,40,0.512,5,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Atlanta Hawks_1995-96,1995,1995-96,Atlanta Hawks,Atlanta,Atlanta,2781000,37574117,46,36,0.561,4,8,Lost E. Conf. Semis,Yes,4,5
+Atlanta Hawks_1996-97,1996,1996-97,Atlanta Hawks,Atlanta,Atlanta,2919000,42455225,56,26,0.683,2,8,Lost E. Conf. Semis,Yes,4,5
+Atlanta Hawks_1997-98,1997,1997-98,Atlanta Hawks,Atlanta,Atlanta,3064000,48461692,50,32,0.61,4,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Atlanta Hawks_1998-99,1998,1998-99,Atlanta Hawks,Atlanta,Atlanta,3215000,64773371,31,19,0.62,2,8,Lost E. Conf. Semis,Yes,4,5
+Atlanta Hawks_1999-00,1999,1999-00,Atlanta Hawks,Atlanta,Atlanta,3375000,68511952,28,54,0.341,7,8,,No,6,17
+Atlanta Hawks_2000-01,2000,2000-01,Atlanta Hawks,Atlanta,Atlanta,3522000,58762651,25,57,0.305,7,8,,No,6,17
+Atlanta Hawks_2001-02,2001,2001-02,Atlanta Hawks,Atlanta,Atlanta,3613000,74623833,33,49,0.402,6,8,,No,6,17
+Atlanta Hawks_2002-03,2002,2002-03,Atlanta Hawks,Atlanta,Atlanta,3706000,79834735,35,47,0.427,5,8,,No,6,17
+Atlanta Hawks_2003-04,2003,2003-04,Atlanta Hawks,Atlanta,Atlanta,3802000,90512897,28,54,0.341,7,8,,No,6,17
+Atlanta Hawks_2004-05,2004,2004-05,Atlanta Hawks,Atlanta,Atlanta,3900000,55798865,13,69,0.159,5,5,,No,6,17
+Atlanta Hawks_2005-06,2005,2005-06,Atlanta Hawks,Atlanta,Atlanta,4001000,56920182,26,56,0.317,5,5,,No,6,17
+Atlanta Hawks_2006-07,2006,2006-07,Atlanta Hawks,Atlanta,Atlanta,4104000,61726391,30,52,0.366,5,5,,No,6,17
+Atlanta Hawks_2007-08,2007,2007-08,Atlanta Hawks,Atlanta,Atlanta,4210000,68672363,37,45,0.451,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Atlanta Hawks_2008-09,2008,2008-09,Atlanta Hawks,Atlanta,Atlanta,4319000,80313146,47,35,0.573,2,5,Lost E. Conf. Semis,Yes,4,5
+Atlanta Hawks_2009-10,2009,2009-10,Atlanta Hawks,Atlanta,Atlanta,4430000,78744343,53,29,0.646,2,5,Lost E. Conf. Semis,Yes,4,5
+Atlanta Hawks_2010-11,2010,2010-11,Atlanta Hawks,Atlanta,Atlanta,4544000,84530590,44,38,0.537,3,5,Lost E. Conf. Semis,Yes,4,5
+Atlanta Hawks_2011-12,2011,2011-12,Atlanta Hawks,Atlanta,Atlanta,4661000,84138365,40,26,0.606,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Atlanta Hawks_2012-13,2012,2012-13,Atlanta Hawks,Atlanta,Atlanta,4782000,74942614,44,38,0.537,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Atlanta Hawks_2013-14,2013,2013-14,Atlanta Hawks,Atlanta,Atlanta,4905000,65136701,38,44,0.463,4,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Atlanta Hawks_2014-15,2014,2014-15,Atlanta Hawks,Atlanta,Atlanta,5032000,63080477,60,22,0.732,1,5,Lost E. Conf. Finals,Yes,3,3
+Atlanta Hawks_2015-16,2015,2015-16,Atlanta Hawks,Atlanta,Atlanta,5162000,77415101,48,34,0.585,2,5,Lost E. Conf. Semis,Yes,4,5
+Atlanta Hawks_2016-17,2016,2016-17,Atlanta Hawks,Atlanta,Atlanta,5295000,103020345,43,39,0.524,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Atlanta Hawks_2017-18,2017,2017-18,Atlanta Hawks,Atlanta,Atlanta,5432000,105234890,24,58,0.293,5,5,,No,6,17
+Atlanta Hawks_2018-19,2018,2018-19,Atlanta Hawks,Atlanta,Atlanta,5572000,81005062,29,53,0.354,5,5,,No,6,17
+Atlanta Hawks_2019-20,2019,2019-20,Atlanta Hawks,Atlanta,Atlanta,5689000,86152846,20,47,0.299,5,5,,No,6,17
+Atlanta Hawks_2020-21,2020,2020-21,Atlanta Hawks,Atlanta,Atlanta,5803000,118804016,41,31,0.569,1,5,Lost E. Conf. Finals,Yes,3,3
+Boston Celtics_1990-91,1990,1990-91,Boston Celtics,Boston,Boston,3428000,22338430,56,26,0.683,1,6,Lost E. Conf. Semis,Yes,4,5
+Boston Celtics_1991-92,1991,1991-92,Boston Celtics,Boston,Boston,3486000,48039325,51,31,0.622,1,7,Lost E. Conf. Semis,Yes,4,5
+Boston Celtics_1992-93,1992,1992-93,Boston Celtics,Boston,Boston,3544000,46368515,48,34,0.585,2,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Boston Celtics_1993-94,1993,1993-94,Boston Celtics,Boston,Boston,3604000,31922901,32,50,0.39,5,7,,No,6,17
+Boston Celtics_1994-95,1994,1994-95,Boston Celtics,Boston,Boston,3664000,42609654,35,47,0.427,3,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Boston Celtics_1995-96,1995,1995-96,Boston Celtics,Boston,Boston,3726000,34179649,33,49,0.402,5,7,,No,6,17
+Boston Celtics_1996-97,1996,1996-97,Boston Celtics,Boston,Boston,3788000,42533206,15,67,0.183,7,7,,No,6,17
+Boston Celtics_1997-98,1997,1997-98,Boston Celtics,Boston,Boston,3852000,43100980,36,46,0.439,6,7,,No,6,17
+Boston Celtics_1998-99,1998,1998-99,Boston Celtics,Boston,Boston,3917000,51019847,19,31,0.38,5,7,,No,6,17
+Boston Celtics_1999-00,1999,1999-00,Boston Celtics,Boston,Boston,3982000,71588876,35,47,0.427,5,7,,No,6,17
+Boston Celtics_2000-01,2000,2000-01,Boston Celtics,Boston,Boston,4036000,76978277,36,46,0.439,5,7,,No,6,17
+Boston Celtics_2001-02,2001,2001-02,Boston Celtics,Boston,Boston,4051000,68816840,49,33,0.598,2,7,Lost E. Conf. Finals,Yes,3,3
+Boston Celtics_2002-03,2002,2002-03,Boston Celtics,Boston,Boston,4065000,75301645,44,38,0.537,3,7,Lost E. Conf. Semis,Yes,4,5
+Boston Celtics_2003-04,2003,2003-04,Boston Celtics,Boston,Boston,4080000,84462422,36,46,0.439,4,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Boston Celtics_2004-05,2004,2004-05,Boston Celtics,Boston,Boston,4095000,87758815,45,37,0.549,1,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Boston Celtics_2005-06,2005,2005-06,Boston Celtics,Boston,Boston,4110000,75426885,33,49,0.402,3,5,,No,6,17
+Boston Celtics_2006-07,2006,2006-07,Boston Celtics,Boston,Boston,4125000,80021854,24,58,0.293,5,5,,No,6,17
+Boston Celtics_2007-08,2007,2007-08,Boston Celtics,Boston,Boston,4140000,92191641,66,16,0.805,1,5,Won Finals,Yes,1,1
+Boston Celtics_2008-09,2008,2008-09,Boston Celtics,Boston,Boston,4155000,93296522,62,20,0.756,1,5,Lost E. Conf. Semis,Yes,4,5
+Boston Celtics_2009-10,2009,2009-10,Boston Celtics,Boston,Boston,4170000,99861832,50,32,0.61,1,5,Lost Finals,Yes,2,2
+Boston Celtics_2010-11,2010,2010-11,Boston Celtics,Boston,Boston,4185000,97039327,56,26,0.683,1,5,Lost E. Conf. Semis,Yes,4,5
+Boston Celtics_2011-12,2011,2011-12,Boston Celtics,Boston,Boston,4200000,91162985,39,27,0.591,1,5,Lost E. Conf. Finals,Yes,3,3
+Boston Celtics_2012-13,2012,2012-13,Boston Celtics,Boston,Boston,4215000,84826589,41,40,0.506,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Boston Celtics_2013-14,2013,2013-14,Boston Celtics,Boston,Boston,4230000,78260193,25,57,0.305,4,5,,No,6,17
+Boston Celtics_2014-15,2014,2014-15,Boston Celtics,Boston,Boston,4246000,67296895,40,42,0.488,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Boston Celtics_2015-16,2015,2015-16,Boston Celtics,Boston,Boston,4261000,83335233,48,34,0.585,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Boston Celtics_2016-17,2016,2016-17,Boston Celtics,Boston,Boston,4277000,99972111,53,29,0.646,1,5,Lost E. Conf. Finals,Yes,3,3
+Boston Celtics_2017-18,2017,2017-18,Boston Celtics,Boston,Boston,4292000,121328679,55,27,0.671,2,5,Lost E. Conf. Finals,Yes,3,3
+Boston Celtics_2018-19,2018,2018-19,Boston Celtics,Boston,Boston,4308000,128223783,49,33,0.598,3,5,Lost E. Conf. Semis,Yes,4,5
+Boston Celtics_2019-20,2019,2019-20,Boston Celtics,Boston,Boston,4307000,118519734,48,24,0.667,2,5,Lost E. Conf. Finals,Yes,3,3
+Boston Celtics_2020-21,2020,2020-21,Boston Celtics,Boston,Boston,4309000,132931565,36,36,0.5,4,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+New Jersey Nets_1990-91,1990,1990-91,New Jersey Nets,Brooklyn,New York,16086000,22644054,26,56,0.317,5,6,,No,6,17
+New Jersey Nets_1991-92,1991,1991-92,New Jersey Nets,Brooklyn,New York,16253000,23880337,40,42,0.488,3,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+New Jersey Nets_1992-93,1992,1992-93,New Jersey Nets,Brooklyn,New York,16423000,29997856,43,39,0.524,3,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+New Jersey Nets_1993-94,1993,1993-94,New Jersey Nets,Brooklyn,New York,16595000,35896976,45,37,0.549,3,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+New Jersey Nets_1994-95,1994,1994-95,New Jersey Nets,Brooklyn,New York,16768000,40275197,30,52,0.366,5,7,,No,6,17
+New Jersey Nets_1995-96,1995,1995-96,New Jersey Nets,Brooklyn,New York,16943000,38170853,30,52,0.366,6,7,,No,6,17
+New Jersey Nets_1996-97,1996,1996-97,New Jersey Nets,Brooklyn,New York,17120000,41830889,26,56,0.317,5,7,,No,6,17
+New Jersey Nets_1997-98,1997,1997-98,New Jersey Nets,Brooklyn,New York,17298000,45841487,43,39,0.524,3,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+New Jersey Nets_1998-99,1998,1998-99,New Jersey Nets,Brooklyn,New York,17479000,69170249,16,34,0.32,7,7,,No,6,17
+New Jersey Nets_1999-00,1999,1999-00,New Jersey Nets,Brooklyn,New York,17661000,82590364,31,51,0.378,6,7,,No,6,17
+New Jersey Nets_2000-01,2000,2000-01,New Jersey Nets,Brooklyn,New York,17813000,103145079,26,56,0.317,6,7,,No,6,17
+New Jersey Nets_2001-02,2001,2001-02,New Jersey Nets,Brooklyn,New York,17868000,108902877,52,30,0.634,1,7,Lost Finals,Yes,2,2
+New Jersey Nets_2002-03,2002,2002-03,New Jersey Nets,Brooklyn,New York,17922000,86571807,49,33,0.598,1,7,Lost Finals,Yes,2,2
+New Jersey Nets_2003-04,2003,2003-04,New Jersey Nets,Brooklyn,New York,17977000,89389904,47,35,0.573,1,7,Lost E. Conf. Semis,Yes,4,5
+New Jersey Nets_2004-05,2004,2004-05,New Jersey Nets,Brooklyn,New York,18032000,74721686,42,40,0.512,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+New Jersey Nets_2005-06,2005,2005-06,New Jersey Nets,Brooklyn,New York,18087000,88074249,49,33,0.598,1,5,Lost E. Conf. Semis,Yes,4,5
+New Jersey Nets_2006-07,2006,2006-07,New Jersey Nets,Brooklyn,New York,18142000,81933582,41,41,0.5,2,5,Lost E. Conf. Semis,Yes,4,5
+New Jersey Nets_2007-08,2007,2007-08,New Jersey Nets,Brooklyn,New York,18198000,76510846,34,48,0.415,4,5,,No,6,17
+New Jersey Nets_2008-09,2008,2008-09,New Jersey Nets,Brooklyn,New York,18254000,73830587,34,48,0.415,3,5,,No,6,17
+New Jersey Nets_2009-10,2009,2009-10,New Jersey Nets,Brooklyn,New York,18309000,70955288,12,70,0.146,5,5,,No,6,17
+New Jersey Nets_2010-11,2010,2010-11,New Jersey Nets,Brooklyn,New York,18365000,69185828,24,58,0.293,4,5,,No,6,17
+New Jersey Nets_2011-12,2011,2011-12,New Jersey Nets,Brooklyn,New York,18421000,74557660,22,44,0.333,5,5,,No,6,17
+Brooklyn Nets_2012-13,2012,2012-13,Brooklyn Nets,Brooklyn,New York,18478000,98460530,49,33,0.598,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Brooklyn Nets_2013-14,2013,2013-14,Brooklyn Nets,Brooklyn,New York,18534000,113263089,44,38,0.537,2,5,Lost E. Conf. Semis,Yes,4,5
+Brooklyn Nets_2014-15,2014,2014-15,Brooklyn Nets,Brooklyn,New York,18591000,94985092,38,44,0.463,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Brooklyn Nets_2015-16,2015,2015-16,Brooklyn Nets,Brooklyn,New York,18648000,86701814,21,61,0.256,4,5,,No,6,17
+Brooklyn Nets_2016-17,2016,2016-17,Brooklyn Nets,Brooklyn,New York,18705000,88127334,20,62,0.244,5,5,,No,6,17
+Brooklyn Nets_2017-18,2017,2017-18,Brooklyn Nets,Brooklyn,New York,18762000,100480775,28,54,0.341,5,5,,No,6,17
+Brooklyn Nets_2018-19,2018,2018-19,Brooklyn Nets,Brooklyn,New York,18819000,121589931,42,40,0.512,4,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Brooklyn Nets_2019-20,2019,2019-20,Brooklyn Nets,Brooklyn,New York,18805000,119657646,35,37,0.486,4,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Brooklyn Nets_2020-21,2020,2020-21,Brooklyn Nets,Brooklyn,New York,18804000,170444633,48,24,0.667,2,5,Lost E. Conf. Semis,Yes,4,5
+Charlotte Hornets_1990-91,1990,1990-91,Charlotte Hornets,Charlotte,Charlotte,461000,20673368,26,56,0.317,7,7,,No,6,17
+Charlotte Hornets_1991-92,1991,1991-92,Charlotte Hornets,Charlotte,Charlotte,486000,23931516,31,51,0.378,7,7,,No,6,17
+Charlotte Hornets_1992-93,1992,1992-93,Charlotte Hornets,Charlotte,Charlotte,511000,26018735,44,38,0.537,3,7,Lost E. Conf. Semis,Yes,4,5
+Charlotte Hornets_1993-94,1993,1993-94,Charlotte Hornets,Charlotte,Charlotte,538000,32049659,41,41,0.5,5,7,,No,6,17
+Charlotte Hornets_1994-95,1994,1994-95,Charlotte Hornets,Charlotte,Charlotte,566000,33699386,50,32,0.61,2,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Charlotte Hornets_1995-96,1995,1995-96,Charlotte Hornets,Charlotte,Charlotte,596000,39022852,41,41,0.5,6,8,,No,6,17
+Charlotte Hornets_1996-97,1996,1996-97,Charlotte Hornets,Charlotte,Charlotte,627000,34508101,54,28,0.659,4,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Charlotte Hornets_1997-98,1997,1997-98,Charlotte Hornets,Charlotte,Charlotte,659000,43431490,51,31,0.622,3,8,Lost E. Conf. Semis,Yes,4,5
+Charlotte Hornets_1998-99,1998,1998-99,Charlotte Hornets,Charlotte,Charlotte,694000,48162166,26,24,0.52,5,8,,No,6,17
+Charlotte Hornets_1999-00,1999,1999-00,Charlotte Hornets,Charlotte,Charlotte,730000,59902913,49,33,0.598,2,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Charlotte Hornets_2000-01,2000,2000-01,Charlotte Hornets,Charlotte,Charlotte,768000,69446013,46,36,0.561,3,8,Lost E. Conf. Semis,Yes,4,5
+Charlotte Hornets_2001-02,2001,2001-02,Charlotte Hornets,Charlotte,Charlotte,808000,72414075,44,38,0.537,2,8,Lost E. Conf. Semis,Yes,4,5
+Charlotte Bobcats_2004-05,2004,2004-05,Charlotte Bobcats,Charlotte,Charlotte,938000,32510107,18,64,0.22,4,5,,No,6,17
+Charlotte Bobcats_2005-06,2005,2005-06,Charlotte Bobcats,Charlotte,Charlotte,986000,44347612,26,56,0.317,4,5,,No,6,17
+Charlotte Bobcats_2006-07,2006,2006-07,Charlotte Bobcats,Charlotte,Charlotte,1036000,53317908,33,49,0.402,4,5,,No,6,17
+Charlotte Bobcats_2007-08,2007,2007-08,Charlotte Bobcats,Charlotte,Charlotte,1089000,66500052,32,50,0.39,4,5,,No,6,17
+Charlotte Bobcats_2008-09,2008,2008-09,Charlotte Bobcats,Charlotte,Charlotte,1145000,74066691,35,47,0.427,4,5,,No,6,17
+Charlotte Bobcats_2009-10,2009,2009-10,Charlotte Bobcats,Charlotte,Charlotte,1204000,82088660,44,38,0.537,4,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Charlotte Bobcats_2010-11,2010,2010-11,Charlotte Bobcats,Charlotte,Charlotte,1265000,78703029,34,48,0.415,4,5,,No,6,17
+Charlotte Bobcats_2011-12,2011,2011-12,Charlotte Bobcats,Charlotte,Charlotte,1330000,66129870,7,59,0.106,5,5,,No,6,17
+Charlotte Bobcats_2012-13,2012,2012-13,Charlotte Bobcats,Charlotte,Charlotte,1398000,65295241,21,61,0.256,4,5,,No,6,17
+Charlotte Bobcats_2013-14,2013,2013-14,Charlotte Bobcats,Charlotte,Charlotte,1469000,66679012,43,39,0.524,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Charlotte Hornets_2014-15,2014,2014-15,Charlotte Hornets,Charlotte,Charlotte,1544000,72244691,33,49,0.402,4,5,,No,6,17
+Charlotte Hornets_2015-16,2015,2015-16,Charlotte Hornets,Charlotte,Charlotte,1623000,83030687,48,34,0.585,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Charlotte Hornets_2016-17,2016,2016-17,Charlotte Hornets,Charlotte,Charlotte,1706000,110228324,36,46,0.439,4,5,,No,6,17
+Charlotte Hornets_2017-18,2017,2017-18,Charlotte Hornets,Charlotte,Charlotte,1794000,123536554,36,46,0.439,3,5,,No,6,17
+Charlotte Hornets_2018-19,2018,2018-19,Charlotte Hornets,Charlotte,Charlotte,1886000,124226596,39,43,0.476,2,5,,No,6,17
+Charlotte Hornets_2019-20,2019,2019-20,Charlotte Hornets,Charlotte,Charlotte,1971000,97175492,23,42,0.354,3,5,,No,6,17
+Charlotte Hornets_2020-21,2020,2020-21,Charlotte Hornets,Charlotte,Charlotte,2054000,108218809,33,39,0.458,4,5,,No,6,17
+Chicago Bulls_1990-91,1990,1990-91,Chicago Bulls,Chicago,Chicago,7374000,19925184,61,21,0.744,1,7,Won Finals,Yes,1,1
+Chicago Bulls_1991-92,1991,1991-92,Chicago Bulls,Chicago,Chicago,7464000,31900476,67,15,0.817,1,7,Won Finals,Yes,1,1
+Chicago Bulls_1992-93,1992,1992-93,Chicago Bulls,Chicago,Chicago,7556000,34083626,57,25,0.695,1,7,Won Finals,Yes,1,1
+Chicago Bulls_1993-94,1993,1993-94,Chicago Bulls,Chicago,Chicago,7649000,33083345,55,27,0.671,2,7,Lost E. Conf. Semis,Yes,4,5
+Chicago Bulls_1994-95,1994,1994-95,Chicago Bulls,Chicago,Chicago,7743000,38413709,47,35,0.573,3,7,Lost E. Conf. Semis,Yes,4,5
+Chicago Bulls_1995-96,1995,1995-96,Chicago Bulls,Chicago,Chicago,7839000,39746373,72,10,0.878,1,8,Won Finals,Yes,1,1
+Chicago Bulls_1996-97,1996,1996-97,Chicago Bulls,Chicago,Chicago,7935000,95863626,69,13,0.841,1,8,Won Finals,Yes,1,1
+Chicago Bulls_1997-98,1997,1997-98,Chicago Bulls,Chicago,Chicago,8033000,98632947,62,20,0.756,1,8,Won Finals,Yes,1,1
+Chicago Bulls_1998-99,1998,1998-99,Chicago Bulls,Chicago,Chicago,8132000,45297138,13,37,0.26,8,8,,No,6,17
+Chicago Bulls_1999-00,1999,1999-00,Chicago Bulls,Chicago,Chicago,8232000,41930575,17,65,0.207,8,8,,No,6,17
+Chicago Bulls_2000-01,2000,2000-01,Chicago Bulls,Chicago,Chicago,8315000,44399556,15,67,0.183,8,8,,No,6,17
+Chicago Bulls_2001-02,2001,2001-02,Chicago Bulls,Chicago,Chicago,8345000,61687130,21,61,0.256,8,8,,No,6,17
+Chicago Bulls_2002-03,2002,2002-03,Chicago Bulls,Chicago,Chicago,8374000,63813125,30,52,0.366,6,8,,No,6,17
+Chicago Bulls_2003-04,2003,2003-04,Chicago Bulls,Chicago,Chicago,8404000,77872081,23,59,0.28,8,8,,No,6,17
+Chicago Bulls_2004-05,2004,2004-05,Chicago Bulls,Chicago,Chicago,8434000,77836650,47,35,0.573,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Chicago Bulls_2005-06,2005,2005-06,Chicago Bulls,Chicago,Chicago,8464000,75770479,41,41,0.5,4,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Chicago Bulls_2006-07,2006,2006-07,Chicago Bulls,Chicago,Chicago,8494000,69569485,49,33,0.598,3,5,Lost E. Conf. Semis,Yes,4,5
+Chicago Bulls_2007-08,2007,2007-08,Chicago Bulls,Chicago,Chicago,8525000,78054961,33,49,0.402,4,5,,No,6,17
+Chicago Bulls_2008-09,2008,2008-09,Chicago Bulls,Chicago,Chicago,8555000,80263586,41,41,0.5,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Chicago Bulls_2009-10,2009,2009-10,Chicago Bulls,Chicago,Chicago,8585000,83306095,41,41,0.5,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Chicago Bulls_2010-11,2010,2010-11,Chicago Bulls,Chicago,Chicago,8616000,64504629,62,20,0.756,1,5,Lost E. Conf. Finals,Yes,3,3
+Chicago Bulls_2011-12,2011,2011-12,Chicago Bulls,Chicago,Chicago,8646000,79431243,50,16,0.758,1,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Chicago Bulls_2012-13,2012,2012-13,Chicago Bulls,Chicago,Chicago,8677000,83683955,45,37,0.549,2,5,Lost E. Conf. Semis,Yes,4,5
+Chicago Bulls_2013-14,2013,2013-14,Chicago Bulls,Chicago,Chicago,8708000,80966615,48,34,0.585,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Chicago Bulls_2014-15,2014,2014-15,Chicago Bulls,Chicago,Chicago,8739000,72917186,50,32,0.61,2,5,Lost E. Conf. Semis,Yes,4,5
+Chicago Bulls_2015-16,2015,2015-16,Chicago Bulls,Chicago,Chicago,8770000,94064534,42,40,0.512,4,5,,No,6,17
+Chicago Bulls_2016-17,2016,2016-17,Chicago Bulls,Chicago,Chicago,8801000,98963441,41,41,0.5,4,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Chicago Bulls_2017-18,2017,2017-18,Chicago Bulls,Chicago,Chicago,8833000,95209595,27,55,0.329,5,5,,No,6,17
+Chicago Bulls_2018-19,2018,2018-19,Chicago Bulls,Chicago,Chicago,8864000,115193422,22,60,0.268,4,5,,No,6,17
+Chicago Bulls_2019-20,2019,2019-20,Chicago Bulls,Chicago,Chicago,8862000,113328998,22,43,0.338,3,5,,No,6,17
+Chicago Bulls_2020-21,2020,2020-21,Chicago Bulls,Chicago,Chicago,8865000,128963580,31,41,0.431,3,5,,No,6,17
+Cleveland Cavaliers_1990-91,1990,1990-91,Cleveland Cavaliers,Cleveland,Cleveland,1680000,28583905,33,49,0.402,6,7,,No,6,17
+Cleveland Cavaliers_1991-92,1991,1991-92,Cleveland Cavaliers,Cleveland,Cleveland,1691000,32000942,57,25,0.695,2,7,Lost E. Conf. Finals,Yes,3,3
+Cleveland Cavaliers_1992-93,1992,1992-93,Cleveland Cavaliers,Cleveland,Cleveland,1701000,36179836,54,28,0.659,2,7,Lost E. Conf. Semis,Yes,4,5
+Cleveland Cavaliers_1993-94,1993,1993-94,Cleveland Cavaliers,Cleveland,Cleveland,1712000,42331190,47,35,0.573,4,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Cleveland Cavaliers_1994-95,1994,1994-95,Cleveland Cavaliers,Cleveland,Cleveland,1723000,48957036,43,39,0.524,4,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Cleveland Cavaliers_1995-96,1995,1995-96,Cleveland Cavaliers,Cleveland,Cleveland,1734000,46817620,47,35,0.573,3,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Cleveland Cavaliers_1996-97,1996,1996-97,Cleveland Cavaliers,Cleveland,Cleveland,1745000,31040100,42,40,0.512,5,8,,No,6,17
+Cleveland Cavaliers_1997-98,1997,1997-98,Cleveland Cavaliers,Cleveland,Cleveland,1756000,42902831,47,35,0.573,5,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Cleveland Cavaliers_1998-99,1998,1998-99,Cleveland Cavaliers,Cleveland,Cleveland,1767000,45413386,22,28,0.44,7,8,,No,6,17
+Cleveland Cavaliers_1999-00,1999,1999-00,Cleveland Cavaliers,Cleveland,Cleveland,1778000,72201712,32,50,0.39,6,8,,No,6,17
+Cleveland Cavaliers_2000-01,2000,2000-01,Cleveland Cavaliers,Cleveland,Cleveland,1786000,74438948,30,52,0.366,6,8,,No,6,17
+Cleveland Cavaliers_2001-02,2001,2001-02,Cleveland Cavaliers,Cleveland,Cleveland,1786000,66114748,29,53,0.354,7,8,,No,6,17
+Cleveland Cavaliers_2002-03,2002,2002-03,Cleveland Cavaliers,Cleveland,Cleveland,1785000,71091848,17,65,0.207,8,8,,No,6,17
+Cleveland Cavaliers_2003-04,2003,2003-04,Cleveland Cavaliers,Cleveland,Cleveland,1785000,64816180,35,47,0.427,5,8,,No,6,17
+Cleveland Cavaliers_2004-05,2004,2004-05,Cleveland Cavaliers,Cleveland,Cleveland,1784000,66827816,42,40,0.512,4,5,,No,6,17
+Cleveland Cavaliers_2005-06,2005,2005-06,Cleveland Cavaliers,Cleveland,Cleveland,1784000,68000030,50,32,0.61,2,5,Lost E. Conf. Semis,Yes,4,5
+Cleveland Cavaliers_2006-07,2006,2006-07,Cleveland Cavaliers,Cleveland,Cleveland,1783000,80036152,50,32,0.61,2,5,Lost Finals,Yes,2,2
+Cleveland Cavaliers_2007-08,2007,2007-08,Cleveland Cavaliers,Cleveland,Cleveland,1782000,101729018,45,37,0.549,2,5,Lost E. Conf. Semis,Yes,4,5
+Cleveland Cavaliers_2008-09,2008,2008-09,Cleveland Cavaliers,Cleveland,Cleveland,1782000,107563052,66,16,0.805,1,5,Lost E. Conf. Finals,Yes,3,3
+Cleveland Cavaliers_2009-10,2009,2009-10,Cleveland Cavaliers,Cleveland,Cleveland,1781000,99678198,61,21,0.744,1,5,Lost E. Conf. Semis,Yes,4,5
+Cleveland Cavaliers_2010-11,2010,2010-11,Cleveland Cavaliers,Cleveland,Cleveland,1781000,63856416,19,63,0.232,5,5,,No,6,17
+Cleveland Cavaliers_2011-12,2011,2011-12,Cleveland Cavaliers,Cleveland,Cleveland,1780000,74094385,21,45,0.318,5,5,,No,6,17
+Cleveland Cavaliers_2012-13,2012,2012-13,Cleveland Cavaliers,Cleveland,Cleveland,1779000,61194381,24,58,0.293,5,5,,No,6,17
+Cleveland Cavaliers_2013-14,2013,2013-14,Cleveland Cavaliers,Cleveland,Cleveland,1779000,73588522,33,49,0.402,3,5,,No,6,17
+Cleveland Cavaliers_2014-15,2014,2014-15,Cleveland Cavaliers,Cleveland,Cleveland,1778000,89334199,53,29,0.646,1,5,Lost Finals,Yes,2,2
+Cleveland Cavaliers_2015-16,2015,2015-16,Cleveland Cavaliers,Cleveland,Cleveland,1778000,116995329,57,25,0.695,1,5,Won Finals,Yes,1,1
+Cleveland Cavaliers_2016-17,2016,2016-17,Cleveland Cavaliers,Cleveland,Cleveland,1777000,137469857,51,31,0.622,1,5,Lost Finals,Yes,2,2
+Cleveland Cavaliers_2017-18,2017,2017-18,Cleveland Cavaliers,Cleveland,Cleveland,1776000,144943173,50,32,0.61,1,5,Lost Finals,Yes,2,2
+Cleveland Cavaliers_2018-19,2018,2018-19,Cleveland Cavaliers,Cleveland,Cleveland,1776000,126095922,19,63,0.232,5,5,,No,6,17
+Cleveland Cavaliers_2019-20,2019,2019-20,Cleveland Cavaliers,Cleveland,Cleveland,1769000,131905303,19,46,0.292,5,5,,No,6,17
+Cleveland Cavaliers_2020-21,2020,2020-21,Cleveland Cavaliers,Cleveland,Cleveland,1763000,129605319,22,50,0.306,4,5,,No,6,17
+Dallas Mavericks_1990-91,1990,1990-91,Dallas Mavericks,Dallas,Dallas,3219000,23205692,28,54,0.341,6,7,,No,6,17
+Dallas Mavericks_1991-92,1991,1991-92,Dallas Mavericks,Dallas,Dallas,3304000,24649936,22,60,0.268,5,6,,No,6,17
+Dallas Mavericks_1992-93,1992,1992-93,Dallas Mavericks,Dallas,Dallas,3391000,19967311,11,71,0.134,6,6,,No,6,17
+Dallas Mavericks_1993-94,1993,1993-94,Dallas Mavericks,Dallas,Dallas,3480000,25567242,13,69,0.159,6,6,,No,6,17
+Dallas Mavericks_1994-95,1994,1994-95,Dallas Mavericks,Dallas,Dallas,3571000,31446176,36,46,0.439,5,6,,No,6,17
+Dallas Mavericks_1995-96,1995,1995-96,Dallas Mavericks,Dallas,Dallas,3665000,36772833,26,56,0.317,6,7,,No,6,17
+Dallas Mavericks_1996-97,1996,1996-97,Dallas Mavericks,Dallas,Dallas,3761000,42951076,24,58,0.293,4,7,,No,6,17
+Dallas Mavericks_1997-98,1997,1997-98,Dallas Mavericks,Dallas,Dallas,3860000,43854348,20,62,0.244,5,7,,No,6,17
+Dallas Mavericks_1998-99,1998,1998-99,Dallas Mavericks,Dallas,Dallas,3961000,56249666,19,31,0.38,5,7,,No,6,17
+Dallas Mavericks_1999-00,1999,1999-00,Dallas Mavericks,Dallas,Dallas,4065000,62067488,40,42,0.488,4,7,,No,6,17
+Dallas Mavericks_2000-01,2000,2000-01,Dallas Mavericks,Dallas,Dallas,4168000,78168771,53,29,0.646,3,7,Lost W. Conf. Semis,Yes,4,5
+Dallas Mavericks_2001-02,2001,2001-02,Dallas Mavericks,Dallas,Dallas,4256000,83943444,57,25,0.695,2,7,Lost W. Conf. Semis,Yes,4,5
+Dallas Mavericks_2002-03,2002,2002-03,Dallas Mavericks,Dallas,Dallas,4347000,104523585,60,22,0.732,2,7,Lost W. Conf. Finals,Yes,3,3
+Dallas Mavericks_2003-04,2003,2003-04,Dallas Mavericks,Dallas,Dallas,4440000,111618548,52,30,0.634,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Dallas Mavericks_2004-05,2004,2004-05,Dallas Mavericks,Dallas,Dallas,4535000,124900998,58,24,0.707,2,5,Lost W. Conf. Semis,Yes,4,5
+Dallas Mavericks_2005-06,2005,2005-06,Dallas Mavericks,Dallas,Dallas,4632000,130495415,60,22,0.732,2,5,Lost Finals,Yes,2,2
+Dallas Mavericks_2006-07,2006,2006-07,Dallas Mavericks,Dallas,Dallas,4731000,112485175,67,15,0.817,1,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Dallas Mavericks_2007-08,2007,2007-08,Dallas Mavericks,Dallas,Dallas,4832000,125828564,51,31,0.622,4,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Dallas Mavericks_2008-09,2008,2008-09,Dallas Mavericks,Dallas,Dallas,4936000,111977963,50,32,0.61,3,5,Lost W. Conf. Semis,Yes,4,5
+Dallas Mavericks_2009-10,2009,2009-10,Dallas Mavericks,Dallas,Dallas,5041000,106272786,55,27,0.671,1,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Dallas Mavericks_2010-11,2010,2010-11,Dallas Mavericks,Dallas,Dallas,5149000,101018108,57,25,0.695,2,5,Won Finals,Yes,1,1
+Dallas Mavericks_2011-12,2011,2011-12,Dallas Mavericks,Dallas,Dallas,5259000,88147505,36,30,0.545,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Dallas Mavericks_2012-13,2012,2012-13,Dallas Mavericks,Dallas,Dallas,5372000,78376184,41,41,0.5,4,5,,No,6,17
+Dallas Mavericks_2013-14,2013,2013-14,Dallas Mavericks,Dallas,Dallas,5486000,82816170,49,33,0.598,4,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Dallas Mavericks_2014-15,2014,2014-15,Dallas Mavericks,Dallas,Dallas,5604000,91743400,50,32,0.61,4,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Dallas Mavericks_2015-16,2015,2015-16,Dallas Mavericks,Dallas,Dallas,5723000,81450292,42,40,0.512,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Dallas Mavericks_2016-17,2016,2016-17,Dallas Mavericks,Dallas,Dallas,5846000,109480619,33,49,0.402,5,5,,No,6,17
+Dallas Mavericks_2017-18,2017,2017-18,Dallas Mavericks,Dallas,Dallas,5971000,89919516,24,58,0.293,4,5,,No,6,17
+Dallas Mavericks_2018-19,2018,2018-19,Dallas Mavericks,Dallas,Dallas,6099000,88963153,33,49,0.402,5,5,,No,6,17
+Dallas Mavericks_2019-20,2019,2019-20,Dallas Mavericks,Dallas,Dallas,6201000,121651576,43,32,0.573,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Dallas Mavericks_2020-21,2020,2020-21,Dallas Mavericks,Dallas,Dallas,6301000,127657823,42,30,0.583,1,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Denver Nuggets_1990-91,1990,1990-91,Denver Nuggets,Denver,Denver,1528000,20510633,20,62,0.244,7,7,,No,6,17
+Denver Nuggets_1991-92,1991,1991-92,Denver Nuggets,Denver,Denver,1570000,22517422,24,58,0.293,4,6,,No,6,17
+Denver Nuggets_1992-93,1992,1992-93,Denver Nuggets,Denver,Denver,1612000,25331361,36,46,0.439,4,6,,No,6,17
+Denver Nuggets_1993-94,1993,1993-94,Denver Nuggets,Denver,Denver,1656000,28761141,42,40,0.512,4,6,Lost W. Conf. Semis,Yes,4,5
+Denver Nuggets_1994-95,1994,1994-95,Denver Nuggets,Denver,Denver,1701000,38217525,41,41,0.5,4,6,Lost W. Conf. 1st Rnd.,Yes,5,9
+Denver Nuggets_1995-96,1995,1995-96,Denver Nuggets,Denver,Denver,1747000,41506152,35,47,0.427,4,7,,No,6,17
+Denver Nuggets_1996-97,1996,1996-97,Denver Nuggets,Denver,Denver,1795000,34948679,21,61,0.256,5,7,,No,6,17
+Denver Nuggets_1997-98,1997,1997-98,Denver Nuggets,Denver,Denver,1844000,42648201,11,71,0.134,7,7,,No,6,17
+Denver Nuggets_1998-99,1998,1998-99,Denver Nuggets,Denver,Denver,1894000,46486011,14,36,0.28,6,7,,No,6,17
+Denver Nuggets_1999-00,1999,1999-00,Denver Nuggets,Denver,Denver,1945000,63095255,35,47,0.427,5,7,,No,6,17
+Denver Nuggets_2000-01,2000,2000-01,Denver Nuggets,Denver,Denver,1994000,78040738,40,42,0.488,6,7,,No,6,17
+Denver Nuggets_2001-02,2001,2001-02,Denver Nuggets,Denver,Denver,2030000,78874976,27,55,0.329,6,7,,No,6,17
+Denver Nuggets_2002-03,2002,2002-03,Denver Nuggets,Denver,Denver,2066000,70373566,17,65,0.207,7,7,,No,6,17
+Denver Nuggets_2003-04,2003,2003-04,Denver Nuggets,Denver,Denver,2104000,55290425,43,39,0.524,6,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Denver Nuggets_2004-05,2004,2004-05,Denver Nuggets,Denver,Denver,2142000,62650997,49,33,0.598,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Denver Nuggets_2005-06,2005,2005-06,Denver Nuggets,Denver,Denver,2181000,74876666,44,38,0.537,1,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Denver Nuggets_2006-07,2006,2006-07,Denver Nuggets,Denver,Denver,2220000,83244380,45,37,0.549,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Denver Nuggets_2007-08,2007,2007-08,Denver Nuggets,Denver,Denver,2260000,102645429,50,32,0.61,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Denver Nuggets_2008-09,2008,2008-09,Denver Nuggets,Denver,Denver,2301000,82613087,54,28,0.659,1,5,Lost W. Conf. Finals,Yes,3,3
+Denver Nuggets_2009-10,2009,2009-10,Denver Nuggets,Denver,Denver,2342000,89563200,53,29,0.646,1,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Denver Nuggets_2010-11,2010,2010-11,Denver Nuggets,Denver,Denver,2385000,80449464,50,32,0.61,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Denver Nuggets_2011-12,2011,2011-12,Denver Nuggets,Denver,Denver,2428000,66873548,38,28,0.576,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Denver Nuggets_2012-13,2012,2012-13,Denver Nuggets,Denver,Denver,2472000,71273659,57,25,0.695,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Denver Nuggets_2013-14,2013,2013-14,Denver Nuggets,Denver,Denver,2516000,72625812,36,46,0.439,4,5,,No,6,17
+Denver Nuggets_2014-15,2014,2014-15,Denver Nuggets,Denver,Denver,2562000,61458077,30,52,0.366,4,5,,No,6,17
+Denver Nuggets_2015-16,2015,2015-16,Denver Nuggets,Denver,Denver,2608000,78416804,33,49,0.402,4,5,,No,6,17
+Denver Nuggets_2016-17,2016,2016-17,Denver Nuggets,Denver,Denver,2656000,89672906,40,42,0.488,4,5,,No,6,17
+Denver Nuggets_2017-18,2017,2017-18,Denver Nuggets,Denver,Denver,2704000,113181665,46,36,0.561,5,5,,No,6,17
+Denver Nuggets_2018-19,2018,2018-19,Denver Nuggets,Denver,Denver,2753000,121054282,54,28,0.659,1,5,Lost W. Conf. Semis,Yes,4,5
+Denver Nuggets_2019-20,2019,2019-20,Denver Nuggets,Denver,Denver,2790000,129577527,46,27,0.63,1,5,Lost W. Conf. Finals,Yes,3,3
+Denver Nuggets_2020-21,2020,2020-21,Denver Nuggets,Denver,Denver,2827000,129793210,47,25,0.653,2,5,Lost W. Conf. Semis,Yes,4,5
+Detroit Pistons_1990-91,1990,1990-91,Detroit Pistons,Detroit,Detroit,3703000,25620926,50,32,0.61,2,7,Lost E. Conf. Finals,Yes,3,3
+Detroit Pistons_1991-92,1991,1991-92,Detroit Pistons,Detroit,Detroit,3723000,29244786,48,34,0.585,3,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Detroit Pistons_1992-93,1992,1992-93,Detroit Pistons,Detroit,Detroit,3743000,25658335,40,42,0.488,6,7,,No,6,17
+Detroit Pistons_1993-94,1993,1993-94,Detroit Pistons,Detroit,Detroit,3763000,28254117,20,62,0.244,7,7,,No,6,17
+Detroit Pistons_1994-95,1994,1994-95,Detroit Pistons,Detroit,Detroit,3784000,28460954,28,54,0.341,7,7,,No,6,17
+Detroit Pistons_1995-96,1995,1995-96,Detroit Pistons,Detroit,Detroit,3804000,40520610,46,36,0.561,5,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Detroit Pistons_1996-97,1996,1996-97,Detroit Pistons,Detroit,Detroit,3825000,44170146,54,28,0.659,3,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Detroit Pistons_1997-98,1997,1997-98,Detroit Pistons,Detroit,Detroit,3846000,40006975,37,45,0.451,6,8,,No,6,17
+Detroit Pistons_1998-99,1998,1998-99,Detroit Pistons,Detroit,Detroit,3866000,54880102,29,21,0.58,3,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Detroit Pistons_1999-00,1999,1999-00,Detroit Pistons,Detroit,Detroit,3887000,65367200,42,40,0.512,4,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Detroit Pistons_2000-01,2000,2000-01,Detroit Pistons,Detroit,Detroit,3899000,60524473,32,50,0.39,5,8,,No,6,17
+Detroit Pistons_2001-02,2001,2001-02,Detroit Pistons,Detroit,Detroit,3882000,61433420,50,32,0.61,1,8,Lost E. Conf. Semis,Yes,4,5
+Detroit Pistons_2002-03,2002,2002-03,Detroit Pistons,Detroit,Detroit,3865000,68465785,50,32,0.61,1,8,Lost E. Conf. Finals,Yes,3,3
+Detroit Pistons_2003-04,2003,2003-04,Detroit Pistons,Detroit,Detroit,3848000,74999460,54,28,0.659,2,8,Won Finals,Yes,1,1
+Detroit Pistons_2004-05,2004,2004-05,Detroit Pistons,Detroit,Detroit,3831000,74420675,54,28,0.659,1,5,Lost Finals,Yes,2,2
+Detroit Pistons_2005-06,2005,2005-06,Detroit Pistons,Detroit,Detroit,3814000,79021432,64,18,0.78,1,5,Lost E. Conf. Finals,Yes,3,3
+Detroit Pistons_2006-07,2006,2006-07,Detroit Pistons,Detroit,Detroit,3797000,74977055,53,29,0.646,1,5,Lost E. Conf. Finals,Yes,3,3
+Detroit Pistons_2007-08,2007,2007-08,Detroit Pistons,Detroit,Detroit,3780000,81537641,59,23,0.72,1,5,Lost E. Conf. Finals,Yes,3,3
+Detroit Pistons_2008-09,2008,2008-09,Detroit Pistons,Detroit,Detroit,3763000,84160200,39,43,0.476,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Detroit Pistons_2009-10,2009,2009-10,Detroit Pistons,Detroit,Detroit,3747000,71934302,27,55,0.329,5,5,,No,6,17
+Detroit Pistons_2010-11,2010,2010-11,Detroit Pistons,Detroit,Detroit,3730000,77490864,30,52,0.366,4,5,,No,6,17
+Detroit Pistons_2011-12,2011,2011-12,Detroit Pistons,Detroit,Detroit,3713000,81001811,25,41,0.379,4,5,,No,6,17
+Detroit Pistons_2012-13,2012,2012-13,Detroit Pistons,Detroit,Detroit,3697000,77298758,29,53,0.354,4,5,,No,6,17
+Detroit Pistons_2013-14,2013,2013-14,Detroit Pistons,Detroit,Detroit,3681000,68878010,29,53,0.354,4,5,,No,6,17
+Detroit Pistons_2014-15,2014,2014-15,Detroit Pistons,Detroit,Detroit,3664000,72912853,32,50,0.39,5,5,,No,6,17
+Detroit Pistons_2015-16,2015,2015-16,Detroit Pistons,Detroit,Detroit,3648000,83458487,44,38,0.537,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Detroit Pistons_2016-17,2016,2016-17,Detroit Pistons,Detroit,Detroit,3632000,113906724,37,45,0.451,5,5,,No,6,17
+Detroit Pistons_2017-18,2017,2017-18,Detroit Pistons,Detroit,Detroit,3616000,126052403,39,43,0.476,4,5,,No,6,17
+Detroit Pistons_2018-19,2018,2018-19,Detroit Pistons,Detroit,Detroit,3600000,129474908,41,41,0.5,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Detroit Pistons_2019-20,2019,2019-20,Detroit Pistons,Detroit,Detroit,3571000,105202536,20,46,0.303,4,5,,No,6,17
+Detroit Pistons_2020-21,2020,2020-21,Detroit Pistons,Detroit,Detroit,3548000,117041599,20,52,0.278,5,5,,No,6,17
+Golden State Warriors_1990-91,1990,1990-91,Golden State Warriors,Golden State,San Francisco,2961000,22128068,44,38,0.537,4,7,Lost W. Conf. Semis,Yes,4,5
+Golden State Warriors_1991-92,1991,1991-92,Golden State Warriors,Golden State,San Francisco,2987000,23694571,55,27,0.671,2,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Golden State Warriors_1992-93,1992,1992-93,Golden State Warriors,Golden State,San Francisco,3014000,28451442,34,48,0.415,6,7,,No,6,17
+Golden State Warriors_1993-94,1993,1993-94,Golden State Warriors,Golden State,San Francisco,3041000,34347334,50,32,0.61,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Golden State Warriors_1994-95,1994,1994-95,Golden State Warriors,Golden State,San Francisco,3068000,34484348,26,56,0.317,6,7,,No,6,17
+Golden State Warriors_1995-96,1995,1995-96,Golden State Warriors,Golden State,San Francisco,3095000,38672924,36,46,0.439,6,7,,No,6,17
+Golden State Warriors_1996-97,1996,1996-97,Golden State Warriors,Golden State,San Francisco,3123000,51143164,30,52,0.366,7,7,,No,6,17
+Golden State Warriors_1997-98,1997,1997-98,Golden State Warriors,Golden State,San Francisco,3151000,52840288,19,63,0.232,6,7,,No,6,17
+Golden State Warriors_1998-99,1998,1998-99,Golden State Warriors,Golden State,San Francisco,3179000,49005147,21,29,0.42,6,7,,No,6,17
+Golden State Warriors_1999-00,1999,1999-00,Golden State Warriors,Golden State,San Francisco,3207000,56047597,19,63,0.232,6,7,,No,6,17
+Golden State Warriors_2000-01,2000,2000-01,Golden State Warriors,Golden State,San Francisco,3230000,63347202,17,65,0.207,7,7,,No,6,17
+Golden State Warriors_2001-02,2001,2001-02,Golden State Warriors,Golden State,San Francisco,3235000,69056499,21,61,0.256,7,7,,No,6,17
+Golden State Warriors_2002-03,2002,2002-03,Golden State Warriors,Golden State,San Francisco,3240000,68408215,38,44,0.463,6,7,,No,6,17
+Golden State Warriors_2003-04,2003,2003-04,Golden State Warriors,Golden State,San Francisco,3246000,74906661,37,45,0.451,4,7,,No,6,17
+Golden State Warriors_2004-05,2004,2004-05,Golden State Warriors,Golden State,San Francisco,3251000,74666976,34,48,0.415,5,5,,No,6,17
+Golden State Warriors_2005-06,2005,2005-06,Golden State Warriors,Golden State,San Francisco,3256000,75701606,34,48,0.415,5,5,,No,6,17
+Golden State Warriors_2006-07,2006,2006-07,Golden State Warriors,Golden State,San Francisco,3261000,82602226,42,40,0.512,3,5,Lost W. Conf. Semis,Yes,4,5
+Golden State Warriors_2007-08,2007,2007-08,Golden State Warriors,Golden State,San Francisco,3267000,76897002,48,34,0.585,3,5,,No,6,17
+Golden State Warriors_2008-09,2008,2008-09,Golden State Warriors,Golden State,San Francisco,3272000,79426692,29,53,0.354,3,5,,No,6,17
+Golden State Warriors_2009-10,2009,2009-10,Golden State Warriors,Golden State,San Francisco,3277000,78109367,26,56,0.317,4,5,,No,6,17
+Golden State Warriors_2010-11,2010,2010-11,Golden State Warriors,Golden State,San Francisco,3283000,80917886,36,46,0.439,3,5,,No,6,17
+Golden State Warriors_2011-12,2011,2011-12,Golden State Warriors,Golden State,San Francisco,3288000,70326943,23,43,0.348,4,5,,No,6,17
+Golden State Warriors_2012-13,2012,2012-13,Golden State Warriors,Golden State,San Francisco,3293000,78679974,47,35,0.573,2,5,Lost W. Conf. Semis,Yes,4,5
+Golden State Warriors_2013-14,2013,2013-14,Golden State Warriors,Golden State,San Francisco,3298000,80046105,51,31,0.622,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Golden State Warriors_2014-15,2014,2014-15,Golden State Warriors,Golden State,San Francisco,3304000,79619438,67,15,0.817,1,5,Won Finals,Yes,1,1
+Golden State Warriors_2015-16,2015,2015-16,Golden State Warriors,Golden State,San Francisco,3309000,101189798,73,9,0.89,1,5,Lost Finals,Yes,2,2
+Golden State Warriors_2016-17,2016,2016-17,Golden State Warriors,Golden State,San Francisco,3315000,108656876,67,15,0.817,1,5,Won Finals,Yes,1,1
+Golden State Warriors_2017-18,2017,2017-18,Golden State Warriors,Golden State,San Francisco,3320000,144824464,58,24,0.707,1,5,Won Finals,Yes,1,1
+Golden State Warriors_2018-19,2018,2018-19,Golden State Warriors,Golden State,San Francisco,3325000,149663080,57,25,0.695,1,5,Lost Finals,Yes,2,2
+Golden State Warriors_2019-20,2019,2019-20,Golden State Warriors,Golden State,San Francisco,3318000,130089563,15,50,0.231,5,5,,No,6,17
+Golden State Warriors_2020-21,2020,2020-21,Golden State Warriors,Golden State,San Francisco,3314000,171105334,39,33,0.542,4,5,,No,6,17
+Houston Rockets_1990-91,1990,1990-91,Houston Rockets,Houston,Houston,2922000,20838088,52,30,0.634,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Houston Rockets_1991-92,1991,1991-92,Houston Rockets,Houston,Houston,3003000,25161740,42,40,0.512,3,6,,No,6,17
+Houston Rockets_1992-93,1992,1992-93,Houston Rockets,Houston,Houston,3087000,29194309,55,27,0.671,1,6,Lost W. Conf. Semis,Yes,4,5
+Houston Rockets_1993-94,1993,1993-94,Houston Rockets,Houston,Houston,3174000,29916229,58,24,0.707,1,6,Won Finals,Yes,1,1
+Houston Rockets_1994-95,1994,1994-95,Houston Rockets,Houston,Houston,3262000,30619652,47,35,0.573,3,6,Won Finals,Yes,1,1
+Houston Rockets_1995-96,1995,1995-96,Houston Rockets,Houston,Houston,3353000,43330174,48,34,0.585,3,7,Lost W. Conf. Semis,Yes,4,5
+Houston Rockets_1996-97,1996,1996-97,Houston Rockets,Houston,Houston,3447000,43226643,57,25,0.695,2,7,Lost W. Conf. Finals,Yes,3,3
+Houston Rockets_1997-98,1997,1997-98,Houston Rockets,Houston,Houston,3543000,45168908,41,41,0.5,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Houston Rockets_1998-99,1998,1998-99,Houston Rockets,Houston,Houston,3642000,47917183,31,19,0.62,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Houston Rockets_1999-00,1999,1999-00,Houston Rockets,Houston,Houston,3744000,81076318,34,48,0.415,6,7,,No,6,17
+Houston Rockets_2000-01,2000,2000-01,Houston Rockets,Houston,Houston,3847000,73695406,45,37,0.549,5,7,,No,6,17
+Houston Rockets_2001-02,2001,2001-02,Houston Rockets,Houston,Houston,3947000,71210143,28,54,0.341,5,7,,No,6,17
+Houston Rockets_2002-03,2002,2002-03,Houston Rockets,Houston,Houston,4050000,71909791,43,39,0.524,5,7,,No,6,17
+Houston Rockets_2003-04,2003,2003-04,Houston Rockets,Houston,Houston,4156000,77748072,45,37,0.549,5,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Houston Rockets_2004-05,2004,2004-05,Houston Rockets,Houston,Houston,4264000,81924676,51,31,0.622,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Houston Rockets_2005-06,2005,2005-06,Houston Rockets,Houston,Houston,4375000,91796140,34,48,0.415,5,5,,No,6,17
+Houston Rockets_2006-07,2006,2006-07,Houston Rockets,Houston,Houston,4489000,81109569,52,30,0.634,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Houston Rockets_2007-08,2007,2007-08,Houston Rockets,Houston,Houston,4606000,86481008,55,27,0.671,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Houston Rockets_2008-09,2008,2008-09,Houston Rockets,Houston,Houston,4727000,86361099,53,29,0.646,2,5,Lost W. Conf. Semis,Yes,4,5
+Houston Rockets_2009-10,2009,2009-10,Houston Rockets,Houston,Houston,4850000,82582941,42,40,0.512,3,5,,No,6,17
+Houston Rockets_2010-11,2010,2010-11,Houston Rockets,Houston,Houston,4976000,85530967,43,39,0.524,5,5,,No,6,17
+Houston Rockets_2011-12,2011,2011-12,Houston Rockets,Houston,Houston,5106000,65124515,34,32,0.515,4,5,,No,6,17
+Houston Rockets_2012-13,2012,2012-13,Houston Rockets,Houston,Houston,5239000,53977707,45,37,0.549,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Houston Rockets_2013-14,2013,2013-14,Houston Rockets,Houston,Houston,5376000,63838780,54,28,0.659,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Houston Rockets_2014-15,2014,2014-15,Houston Rockets,Houston,Houston,5516000,83121875,56,26,0.683,1,5,Lost W. Conf. Finals,Yes,3,3
+Houston Rockets_2015-16,2015,2015-16,Houston Rockets,Houston,Houston,5660000,94529294,41,41,0.5,4,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Houston Rockets_2016-17,2016,2016-17,Houston Rockets,Houston,Houston,5807000,97288163,55,27,0.671,2,5,Lost W. Conf. Semis,Yes,4,5
+Houston Rockets_2017-18,2017,2017-18,Houston Rockets,Houston,Houston,5959000,126191680,65,17,0.793,1,5,Lost W. Conf. Finals,Yes,3,3
+Houston Rockets_2018-19,2018,2018-19,Houston Rockets,Houston,Houston,6115000,129389144,53,29,0.646,1,5,Lost W. Conf. Semis,Yes,4,5
+Houston Rockets_2019-20,2019,2019-20,Houston Rockets,Houston,Houston,6245000,128937160,44,28,0.611,1,5,Lost W. Conf. Semis,Yes,4,5
+Houston Rockets_2020-21,2020,2020-21,Houston Rockets,Houston,Houston,6371000,131784255,17,55,0.236,5,5,,No,6,17
+Indiana Pacers_1990-91,1990,1990-91,Indiana Pacers,Indiana,Indianapolis,893000,21792672,41,41,0.5,5,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_1991-92,1991,1991-92,Indiana Pacers,Indiana,Indianapolis,917000,28604086,40,42,0.488,4,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_1992-93,1992,1992-93,Indiana Pacers,Indiana,Indianapolis,942000,29913272,41,41,0.5,5,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_1993-94,1993,1993-94,Indiana Pacers,Indiana,Indianapolis,967000,30699973,47,35,0.573,3,7,Lost E. Conf. Finals,Yes,3,3
+Indiana Pacers_1994-95,1994,1994-95,Indiana Pacers,Indiana,Indianapolis,993000,43404821,52,30,0.634,1,7,Lost E. Conf. Finals,Yes,3,3
+Indiana Pacers_1995-96,1995,1995-96,Indiana Pacers,Indiana,Indianapolis,1020000,40417489,52,30,0.634,2,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_1996-97,1996,1996-97,Indiana Pacers,Indiana,Indianapolis,1048000,64951017,39,43,0.476,6,8,,No,6,17
+Indiana Pacers_1997-98,1997,1997-98,Indiana Pacers,Indiana,Indianapolis,1076000,62981380,58,24,0.707,2,8,Lost E. Conf. Finals,Yes,3,3
+Indiana Pacers_1998-99,1998,1998-99,Indiana Pacers,Indiana,Indianapolis,1105000,71805947,33,17,0.66,1,8,Lost E. Conf. Finals,Yes,3,3
+Indiana Pacers_1999-00,1999,1999-00,Indiana Pacers,Indiana,Indianapolis,1134000,85294196,56,26,0.683,1,8,Lost Finals,Yes,2,2
+Indiana Pacers_2000-01,2000,2000-01,Indiana Pacers,Indiana,Indianapolis,1165000,82372624,41,41,0.5,4,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_2001-02,2001,2001-02,Indiana Pacers,Indiana,Indianapolis,1197000,77337095,42,40,0.512,4,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_2002-03,2002,2002-03,Indiana Pacers,Indiana,Indianapolis,1229000,76625920,48,34,0.585,2,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_2003-04,2003,2003-04,Indiana Pacers,Indiana,Indianapolis,1262000,81614052,61,21,0.744,1,8,Lost E. Conf. Finals,Yes,3,3
+Indiana Pacers_2004-05,2004,2004-05,Indiana Pacers,Indiana,Indianapolis,1296000,89780182,44,38,0.537,3,5,Lost E. Conf. Semis,Yes,4,5
+Indiana Pacers_2005-06,2005,2005-06,Indiana Pacers,Indiana,Indianapolis,1331000,104433332,41,41,0.5,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_2006-07,2006,2006-07,Indiana Pacers,Indiana,Indianapolis,1367000,80196540,35,47,0.427,4,5,,No,6,17
+Indiana Pacers_2007-08,2007,2007-08,Indiana Pacers,Indiana,Indianapolis,1404000,81984772,36,46,0.439,3,5,,No,6,17
+Indiana Pacers_2008-09,2008,2008-09,Indiana Pacers,Indiana,Indianapolis,1442000,82080344,36,46,0.439,4,5,,No,6,17
+Indiana Pacers_2009-10,2009,2009-10,Indiana Pacers,Indiana,Indianapolis,1481000,79759805,32,50,0.39,4,5,,No,6,17
+Indiana Pacers_2010-11,2010,2010-11,Indiana Pacers,Indiana,Indianapolis,1521000,76983241,37,45,0.451,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_2011-12,2011,2011-12,Indiana Pacers,Indiana,Indianapolis,1562000,58879888,42,24,0.636,2,5,Lost E. Conf. Semis,Yes,4,5
+Indiana Pacers_2012-13,2012,2012-13,Indiana Pacers,Indiana,Indianapolis,1604000,74265222,49,32,0.605,1,5,Lost E. Conf. Finals,Yes,3,3
+Indiana Pacers_2013-14,2013,2013-14,Indiana Pacers,Indiana,Indianapolis,1647000,74171847,56,26,0.683,1,5,Lost E. Conf. Finals,Yes,3,3
+Indiana Pacers_2014-15,2014,2014-15,Indiana Pacers,Indiana,Indianapolis,1691000,80898305,38,44,0.463,4,5,,No,6,17
+Indiana Pacers_2015-16,2015,2015-16,Indiana Pacers,Indiana,Indianapolis,1737000,77354035,45,37,0.549,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_2016-17,2016,2016-17,Indiana Pacers,Indiana,Indianapolis,1784000,96564039,42,40,0.512,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_2017-18,2017,2017-18,Indiana Pacers,Indiana,Indianapolis,1832000,100266438,48,34,0.585,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_2018-19,2018,2018-19,Indiana Pacers,Indiana,Indianapolis,1882000,113276848,48,34,0.585,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_2019-20,2019,2019-20,Indiana Pacers,Indiana,Indianapolis,1923000,113601104,45,28,0.616,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Indiana Pacers_2020-21,2020,2020-21,Indiana Pacers,Indiana,Indianapolis,1964000,130237102,34,38,0.472,2,5,,No,6,17
+Los Angeles Clippers_1990-91,1990,1990-91,Los Angeles Clippers,LA Clippers,Los Angeles,10883000,20332020,31,51,0.378,6,7,,No,6,17
+Los Angeles Clippers_1991-92,1991,1991-92,Los Angeles Clippers,LA Clippers,Los Angeles,10973000,24596860,45,37,0.549,5,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Clippers_1992-93,1992,1992-93,Los Angeles Clippers,LA Clippers,Los Angeles,11064000,26272487,41,41,0.5,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Clippers_1993-94,1993,1993-94,Los Angeles Clippers,LA Clippers,Los Angeles,11154000,36041583,27,55,0.329,7,7,,No,6,17
+Los Angeles Clippers_1994-95,1994,1994-95,Los Angeles Clippers,LA Clippers,Los Angeles,11246000,31138908,17,65,0.207,7,7,,No,6,17
+Los Angeles Clippers_1995-96,1995,1995-96,Los Angeles Clippers,LA Clippers,Los Angeles,11339000,35778838,29,53,0.354,7,7,,No,6,17
+Los Angeles Clippers_1996-97,1996,1996-97,Los Angeles Clippers,LA Clippers,Los Angeles,11432000,38392332,36,46,0.439,5,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Clippers_1997-98,1997,1997-98,Los Angeles Clippers,LA Clippers,Los Angeles,11526000,39391029,17,65,0.207,7,7,,No,6,17
+Los Angeles Clippers_1998-99,1998,1998-99,Los Angeles Clippers,LA Clippers,Los Angeles,11621000,44944576,9,41,0.18,7,7,,No,6,17
+Los Angeles Clippers_1999-00,1999,1999-00,Los Angeles Clippers,LA Clippers,Los Angeles,11717000,34883777,15,67,0.183,7,7,,No,6,17
+Los Angeles Clippers_2000-01,2000,2000-01,Los Angeles Clippers,LA Clippers,Los Angeles,11798000,44271376,31,51,0.378,6,7,,No,6,17
+Los Angeles Clippers_2001-02,2001,2001-02,Los Angeles Clippers,LA Clippers,Los Angeles,11834000,49024771,39,43,0.476,5,7,,No,6,17
+Los Angeles Clippers_2002-03,2002,2002-03,Los Angeles Clippers,LA Clippers,Los Angeles,11870000,61555695,27,55,0.329,7,7,,No,6,17
+Los Angeles Clippers_2003-04,2003,2003-04,Los Angeles Clippers,LA Clippers,Los Angeles,11906000,54891473,28,54,0.341,7,7,,No,6,17
+Los Angeles Clippers_2004-05,2004,2004-05,Los Angeles Clippers,LA Clippers,Los Angeles,11942000,61810481,37,45,0.451,3,5,,No,6,17
+Los Angeles Clippers_2005-06,2005,2005-06,Los Angeles Clippers,LA Clippers,Los Angeles,11978000,68072509,47,35,0.573,2,5,Lost W. Conf. Semis,Yes,4,5
+Los Angeles Clippers_2006-07,2006,2006-07,Los Angeles Clippers,LA Clippers,Los Angeles,12014000,75193160,40,42,0.488,4,5,,No,6,17
+Los Angeles Clippers_2007-08,2007,2007-08,Los Angeles Clippers,LA Clippers,Los Angeles,12050000,80237310,23,59,0.28,5,5,,No,6,17
+Los Angeles Clippers_2008-09,2008,2008-09,Los Angeles Clippers,LA Clippers,Los Angeles,12087000,73945671,19,63,0.232,4,5,,No,6,17
+Los Angeles Clippers_2009-10,2009,2009-10,Los Angeles Clippers,LA Clippers,Los Angeles,12123000,73644132,29,53,0.354,3,5,,No,6,17
+Los Angeles Clippers_2010-11,2010,2010-11,Los Angeles Clippers,LA Clippers,Los Angeles,12160000,62951979,32,50,0.39,4,5,,No,6,17
+Los Angeles Clippers_2011-12,2011,2011-12,Los Angeles Clippers,LA Clippers,Los Angeles,12197000,76901427,40,26,0.606,2,5,Lost W. Conf. Semis,Yes,4,5
+Los Angeles Clippers_2012-13,2012,2012-13,Los Angeles Clippers,LA Clippers,Los Angeles,12234000,77686584,56,26,0.683,1,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Clippers_2013-14,2013,2013-14,Los Angeles Clippers,LA Clippers,Los Angeles,12271000,80649628,57,25,0.695,1,5,Lost W. Conf. Semis,Yes,4,5
+Los Angeles Clippers_2014-15,2014,2014-15,Los Angeles Clippers,LA Clippers,Los Angeles,12308000,92218473,56,26,0.683,2,5,Lost W. Conf. Semis,Yes,4,5
+Los Angeles Clippers_2015-16,2015,2015-16,Los Angeles Clippers,LA Clippers,Los Angeles,12345000,104808488,53,29,0.646,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Clippers_2016-17,2016,2016-17,Los Angeles Clippers,LA Clippers,Los Angeles,12383000,122745802,51,31,0.622,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Clippers_2017-18,2017,2017-18,Los Angeles Clippers,LA Clippers,Los Angeles,12420000,125336563,42,40,0.512,2,5,,No,6,17
+Los Angeles Clippers_2018-19,2018,2018-19,Los Angeles Clippers,LA Clippers,Los Angeles,12458000,120747162,48,34,0.585,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Clippers_2019-20,2019,2019-20,Los Angeles Clippers,LA Clippers,Los Angeles,12448000,132355511,49,23,0.681,2,5,Lost W. Conf. Semis,Yes,4,5
+Los Angeles Clippers_2020-21,2020,2020-21,Los Angeles Clippers,LA Clippers,Los Angeles,12447000,139722606,47,25,0.653,2,5,Lost W. Conf. Finals,Yes,3,3
+Los Angeles Lakers_1990-91,1990,1990-91,Los Angeles Lakers,LA Lakers,Los Angeles,10883000,24053108,58,24,0.707,2,7,Lost Finals,Yes,2,2
+Los Angeles Lakers_1991-92,1991,1991-92,Los Angeles Lakers,LA Lakers,Los Angeles,10973000,29709201,43,39,0.524,6,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Lakers_1992-93,1992,1992-93,Los Angeles Lakers,LA Lakers,Los Angeles,11064000,34662841,39,43,0.476,5,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Lakers_1993-94,1993,1993-94,Los Angeles Lakers,LA Lakers,Los Angeles,11154000,41915214,33,49,0.402,5,7,,No,6,17
+Los Angeles Lakers_1994-95,1994,1994-95,Los Angeles Lakers,LA Lakers,Los Angeles,11246000,73277572,48,34,0.585,3,7,Lost W. Conf. Semis,Yes,4,5
+Los Angeles Lakers_1995-96,1995,1995-96,Los Angeles Lakers,LA Lakers,Los Angeles,11339000,50837559,53,29,0.646,2,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Lakers_1996-97,1996,1996-97,Los Angeles Lakers,LA Lakers,Los Angeles,11432000,47444018,56,26,0.683,2,7,Lost W. Conf. Semis,Yes,4,5
+Los Angeles Lakers_1997-98,1997,1997-98,Los Angeles Lakers,LA Lakers,Los Angeles,11526000,58385598,61,21,0.744,2,7,Lost W. Conf. Finals,Yes,3,3
+Los Angeles Lakers_1998-99,1998,1998-99,Los Angeles Lakers,LA Lakers,Los Angeles,11621000,66223771,31,19,0.62,2,7,Lost W. Conf. Semis,Yes,4,5
+Los Angeles Lakers_1999-00,1999,1999-00,Los Angeles Lakers,LA Lakers,Los Angeles,11717000,85340621,67,15,0.817,1,7,Won Finals,Yes,1,1
+Los Angeles Lakers_2000-01,2000,2000-01,Los Angeles Lakers,LA Lakers,Los Angeles,11798000,88177651,56,26,0.683,1,7,Won Finals,Yes,1,1
+Los Angeles Lakers_2001-02,2001,2001-02,Los Angeles Lakers,LA Lakers,Los Angeles,11834000,78587549,58,24,0.707,2,7,Won Finals,Yes,1,1
+Los Angeles Lakers_2002-03,2002,2002-03,Los Angeles Lakers,LA Lakers,Los Angeles,11870000,90495743,50,32,0.61,2,7,Lost W. Conf. Semis,Yes,4,5
+Los Angeles Lakers_2003-04,2003,2003-04,Los Angeles Lakers,LA Lakers,Los Angeles,11906000,89987682,56,26,0.683,1,7,Lost Finals,Yes,2,2
+Los Angeles Lakers_2004-05,2004,2004-05,Los Angeles Lakers,LA Lakers,Los Angeles,11942000,88413490,34,48,0.415,4,5,,No,6,17
+Los Angeles Lakers_2005-06,2005,2005-06,Los Angeles Lakers,LA Lakers,Los Angeles,11978000,96647948,45,37,0.549,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Lakers_2006-07,2006,2006-07,Los Angeles Lakers,LA Lakers,Los Angeles,12014000,97960248,42,40,0.512,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Lakers_2007-08,2007,2007-08,Los Angeles Lakers,LA Lakers,Los Angeles,12050000,89862199,57,25,0.695,1,5,Lost Finals,Yes,2,2
+Los Angeles Lakers_2008-09,2008,2008-09,Los Angeles Lakers,LA Lakers,Los Angeles,12087000,92185313,65,17,0.793,1,5,Won Finals,Yes,1,1
+Los Angeles Lakers_2009-10,2009,2009-10,Los Angeles Lakers,LA Lakers,Los Angeles,12123000,109215362,57,25,0.695,1,5,Won Finals,Yes,1,1
+Los Angeles Lakers_2010-11,2010,2010-11,Los Angeles Lakers,LA Lakers,Los Angeles,12160000,108136161,57,25,0.695,1,5,Lost W. Conf. Semis,Yes,4,5
+Los Angeles Lakers_2011-12,2011,2011-12,Los Angeles Lakers,LA Lakers,Los Angeles,12197000,100806814,41,25,0.621,1,5,Lost W. Conf. Semis,Yes,4,5
+Los Angeles Lakers_2012-13,2012,2012-13,Los Angeles Lakers,LA Lakers,Los Angeles,12234000,112488883,45,37,0.549,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Los Angeles Lakers_2013-14,2013,2013-14,Los Angeles Lakers,LA Lakers,Los Angeles,12271000,85478505,27,55,0.329,5,5,,No,6,17
+Los Angeles Lakers_2014-15,2014,2014-15,Los Angeles Lakers,LA Lakers,Los Angeles,12308000,83875980,21,61,0.256,5,5,,No,6,17
+Los Angeles Lakers_2015-16,2015,2015-16,Los Angeles Lakers,LA Lakers,Los Angeles,12345000,78530593,17,65,0.207,5,5,,No,6,17
+Los Angeles Lakers_2016-17,2016,2016-17,Los Angeles Lakers,LA Lakers,Los Angeles,12383000,101380286,26,56,0.317,4,5,,No,6,17
+Los Angeles Lakers_2017-18,2017,2017-18,Los Angeles Lakers,LA Lakers,Los Angeles,12420000,108533052,35,47,0.427,3,5,,No,6,17
+Los Angeles Lakers_2018-19,2018,2018-19,Los Angeles Lakers,LA Lakers,Los Angeles,12458000,109696872,37,45,0.451,4,5,,No,6,17
+Los Angeles Lakers_2019-20,2019,2019-20,Los Angeles Lakers,LA Lakers,Los Angeles,12448000,119739915,52,19,0.732,1,5,Won Finals,Yes,1,1
+Los Angeles Lakers_2020-21,2020,2020-21,Los Angeles Lakers,LA Lakers,Los Angeles,12447000,139334713,42,30,0.583,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Vancouver Grizzlies_1995-96,1995,1995-96,Vancouver Grizzlies,Memphis,Vancouver,1789000,31126655,15,67,0.183,7,7,,No,6,17
+Vancouver Grizzlies_1996-97,1996,1996-97,Vancouver Grizzlies,Memphis,Vancouver,1836000,26286403,14,68,0.171,7,7,,No,6,17
+Vancouver Grizzlies_1997-98,1997,1997-98,Vancouver Grizzlies,Memphis,Vancouver,1866000,41229998,19,63,0.232,6,7,,No,6,17
+Vancouver Grizzlies_1998-99,1998,1998-99,Vancouver Grizzlies,Memphis,Vancouver,1896000,53197590,8,42,0.16,7,7,,No,6,17
+Vancouver Grizzlies_1999-00,1999,1999-00,Vancouver Grizzlies,Memphis,Vancouver,1927000,58062776,22,60,0.268,7,7,,No,6,17
+Vancouver Grizzlies_2000-01,2000,2000-01,Vancouver Grizzlies,Memphis,Vancouver,1959000,73121988,23,59,0.28,7,7,,No,6,17
+Memphis Grizzlies_2001-02,2001,2001-02,Memphis Grizzlies,Memphis,Memphis,983000,73748227,23,59,0.28,7,7,,No,6,17
+Memphis Grizzlies_2002-03,2002,2002-03,Memphis Grizzlies,Memphis,Memphis,991000,87426238,28,54,0.341,6,7,,No,6,17
+Memphis Grizzlies_2003-04,2003,2003-04,Memphis Grizzlies,Memphis,Memphis,1000000,80522362,50,32,0.61,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Memphis Grizzlies_2004-05,2004,2004-05,Memphis Grizzlies,Memphis,Memphis,1009000,91065838,45,37,0.549,4,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Memphis Grizzlies_2005-06,2005,2005-06,Memphis Grizzlies,Memphis,Memphis,1017000,89500664,49,33,0.598,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Memphis Grizzlies_2006-07,2006,2006-07,Memphis Grizzlies,Memphis,Memphis,1026000,78724625,22,60,0.268,5,5,,No,6,17
+Memphis Grizzlies_2007-08,2007,2007-08,Memphis Grizzlies,Memphis,Memphis,1035000,66961639,22,60,0.268,5,5,,No,6,17
+Memphis Grizzlies_2008-09,2008,2008-09,Memphis Grizzlies,Memphis,Memphis,1044000,65927110,24,58,0.293,5,5,,No,6,17
+Memphis Grizzlies_2009-10,2009,2009-10,Memphis Grizzlies,Memphis,Memphis,1053000,68470169,40,42,0.488,4,5,,No,6,17
+Memphis Grizzlies_2010-11,2010,2010-11,Memphis Grizzlies,Memphis,Memphis,1062000,83077585,46,36,0.561,4,5,Lost W. Conf. Semis,Yes,4,5
+Memphis Grizzlies_2011-12,2011,2011-12,Memphis Grizzlies,Memphis,Memphis,1072000,80664209,41,25,0.621,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Memphis Grizzlies_2012-13,2012,2012-13,Memphis Grizzlies,Memphis,Memphis,1081000,70835373,56,26,0.683,2,5,Lost W. Conf. Finals,Yes,3,3
+Memphis Grizzlies_2013-14,2013,2013-14,Memphis Grizzlies,Memphis,Memphis,1090000,79482784,50,32,0.61,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Memphis Grizzlies_2014-15,2014,2014-15,Memphis Grizzlies,Memphis,Memphis,1100000,81293315,55,27,0.671,2,5,Lost W. Conf. Semis,Yes,4,5
+Memphis Grizzlies_2015-16,2015,2015-16,Memphis Grizzlies,Memphis,Memphis,1109000,89905480,42,40,0.512,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Memphis Grizzlies_2016-17,2016,2016-17,Memphis Grizzlies,Memphis,Memphis,1119000,117747216,43,39,0.524,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Memphis Grizzlies_2017-18,2017,2017-18,Memphis Grizzlies,Memphis,Memphis,1129000,116503695,22,60,0.268,5,5,,No,6,17
+Memphis Grizzlies_2018-19,2018,2018-19,Memphis Grizzlies,Memphis,Memphis,1139000,129014051,33,49,0.402,3,5,,No,6,17
+Memphis Grizzlies_2019-20,2019,2019-20,Memphis Grizzlies,Memphis,Memphis,1144000,99131862,34,39,0.466,3,5,,No,6,17
+Memphis Grizzlies_2020-21,2020,2020-21,Memphis Grizzlies,Memphis,Memphis,1150000,132022601,38,34,0.528,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Miami Heat_1990-91,1990,1990-91,Miami Heat,Miami,Miami,3969000,16888774,24,58,0.293,6,6,,No,6,17
+Miami Heat_1991-92,1991,1991-92,Miami Heat,Miami,Miami,4058000,21825542,38,44,0.463,4,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Miami Heat_1992-93,1992,1992-93,Miami Heat,Miami,Miami,4148000,27811547,36,46,0.439,5,7,,No,6,17
+Miami Heat_1993-94,1993,1993-94,Miami Heat,Miami,Miami,4240000,31797933,42,40,0.512,4,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Miami Heat_1994-95,1994,1994-95,Miami Heat,Miami,Miami,4334000,35084772,32,50,0.39,4,7,,No,6,17
+Miami Heat_1995-96,1995,1995-96,Miami Heat,Miami,Miami,4431000,37337450,42,40,0.512,3,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Miami Heat_1996-97,1996,1996-97,Miami Heat,Miami,Miami,4529000,36886184,61,21,0.744,1,7,Lost E. Conf. Finals,Yes,3,3
+Miami Heat_1997-98,1997,1997-98,Miami Heat,Miami,Miami,4630000,55710494,55,27,0.671,1,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Miami Heat_1998-99,1998,1998-99,Miami Heat,Miami,Miami,4733000,70528825,33,17,0.66,1,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Miami Heat_1999-00,1999,1999-00,Miami Heat,Miami,Miami,4838000,81428740,52,30,0.634,1,7,Lost E. Conf. Semis,Yes,4,5
+Miami Heat_2000-01,2000,2000-01,Miami Heat,Miami,Miami,4933000,109866267,50,32,0.61,2,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Miami Heat_2001-02,2001,2001-02,Miami Heat,Miami,Miami,4988000,77268395,36,46,0.439,6,7,,No,6,17
+Miami Heat_2002-03,2002,2002-03,Miami Heat,Miami,Miami,5045000,82223230,25,57,0.305,7,7,,No,6,17
+Miami Heat_2003-04,2003,2003-04,Miami Heat,Miami,Miami,5101000,66448146,42,40,0.512,2,7,Lost E. Conf. Semis,Yes,4,5
+Miami Heat_2004-05,2004,2004-05,Miami Heat,Miami,Miami,5159000,80890805,59,23,0.72,1,5,Lost E. Conf. Finals,Yes,3,3
+Miami Heat_2005-06,2005,2005-06,Miami Heat,Miami,Miami,5217000,80496874,52,30,0.634,1,5,Won Finals,Yes,1,1
+Miami Heat_2006-07,2006,2006-07,Miami Heat,Miami,Miami,5276000,81844901,44,38,0.537,1,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Miami Heat_2007-08,2007,2007-08,Miami Heat,Miami,Miami,5335000,92511051,15,67,0.183,5,5,,No,6,17
+Miami Heat_2008-09,2008,2008-09,Miami Heat,Miami,Miami,5396000,82820508,43,39,0.524,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Miami Heat_2009-10,2009,2009-10,Miami Heat,Miami,Miami,5456000,88693658,47,35,0.573,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Miami Heat_2010-11,2010,2010-11,Miami Heat,Miami,Miami,5518000,78304632,58,24,0.707,1,5,Lost Finals,Yes,2,2
+Miami Heat_2011-12,2011,2011-12,Miami Heat,Miami,Miami,5580000,86193835,46,20,0.697,1,5,Won Finals,Yes,1,1
+Miami Heat_2012-13,2012,2012-13,Miami Heat,Miami,Miami,5643000,90353229,66,16,0.805,1,5,Won Finals,Yes,1,1
+Miami Heat_2013-14,2013,2013-14,Miami Heat,Miami,Miami,5706000,89252108,54,28,0.659,1,5,Lost Finals,Yes,2,2
+Miami Heat_2014-15,2014,2014-15,Miami Heat,Miami,Miami,5771000,82001032,37,45,0.451,3,5,,No,6,17
+Miami Heat_2015-16,2015,2015-16,Miami Heat,Miami,Miami,5836000,92650377,48,34,0.585,1,5,Lost E. Conf. Semis,Yes,4,5
+Miami Heat_2016-17,2016,2016-17,Miami Heat,Miami,Miami,5902000,107754051,41,41,0.5,3,5,,No,6,17
+Miami Heat_2017-18,2017,2017-18,Miami Heat,Miami,Miami,5968000,140629748,44,38,0.537,1,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Miami Heat_2018-19,2018,2018-19,Miami Heat,Miami,Miami,6036000,156701881,39,43,0.476,3,5,,No,6,17
+Miami Heat_2019-20,2019,2019-20,Miami Heat,Miami,Miami,6079000,130706462,44,29,0.603,1,5,Lost Finals,Yes,2,2
+Miami Heat_2020-21,2020,2020-21,Miami Heat,Miami,Miami,6122000,134731235,40,32,0.556,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Milwaukee Bucks_1990-91,1990,1990-91,Milwaukee Bucks,Milwaukee,Milwaukee,1228000,23011204,48,34,0.585,3,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Milwaukee Bucks_1991-92,1991,1991-92,Milwaukee Bucks,Milwaukee,Milwaukee,1236000,23601687,31,51,0.378,6,7,,No,6,17
+Milwaukee Bucks_1992-93,1992,1992-93,Milwaukee Bucks,Milwaukee,Milwaukee,1244000,25801759,28,54,0.341,7,7,,No,6,17
+Milwaukee Bucks_1993-94,1993,1993-94,Milwaukee Bucks,Milwaukee,Milwaukee,1253000,26581293,20,62,0.244,6,7,,No,6,17
+Milwaukee Bucks_1994-95,1994,1994-95,Milwaukee Bucks,Milwaukee,Milwaukee,1261000,28317527,34,48,0.415,6,7,,No,6,17
+Milwaukee Bucks_1995-96,1995,1995-96,Milwaukee Bucks,Milwaukee,Milwaukee,1269000,38899448,25,57,0.305,7,8,,No,6,17
+Milwaukee Bucks_1996-97,1996,1996-97,Milwaukee Bucks,Milwaukee,Milwaukee,1277000,39849949,33,49,0.402,7,8,,No,6,17
+Milwaukee Bucks_1997-98,1997,1997-98,Milwaukee Bucks,Milwaukee,Milwaukee,1286000,41684670,36,46,0.439,7,8,,No,6,17
+Milwaukee Bucks_1998-99,1998,1998-99,Milwaukee Bucks,Milwaukee,Milwaukee,1294000,53304252,28,22,0.56,4,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Milwaukee Bucks_1999-00,1999,1999-00,Milwaukee Bucks,Milwaukee,Milwaukee,1303000,69304569,42,40,0.512,5,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Milwaukee Bucks_2000-01,2000,2000-01,Milwaukee Bucks,Milwaukee,Milwaukee,1311000,86459659,52,30,0.634,1,8,Lost E. Conf. Finals,Yes,3,3
+Milwaukee Bucks_2001-02,2001,2001-02,Milwaukee Bucks,Milwaukee,Milwaukee,1317000,81429470,41,41,0.5,5,8,,No,6,17
+Milwaukee Bucks_2002-03,2002,2002-03,Milwaukee Bucks,Milwaukee,Milwaukee,1324000,83107141,42,40,0.512,4,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Milwaukee Bucks_2003-04,2003,2003-04,Milwaukee Bucks,Milwaukee,Milwaukee,1330000,74700533,41,41,0.5,4,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Milwaukee Bucks_2004-05,2004,2004-05,Milwaukee Bucks,Milwaukee,Milwaukee,1337000,78070553,30,52,0.366,5,5,,No,6,17
+Milwaukee Bucks_2005-06,2005,2005-06,Milwaukee Bucks,Milwaukee,Milwaukee,1344000,83532201,40,42,0.488,5,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Milwaukee Bucks_2006-07,2006,2006-07,Milwaukee Bucks,Milwaukee,Milwaukee,1351000,80678785,28,54,0.341,5,5,,No,6,17
+Milwaukee Bucks_2007-08,2007,2007-08,Milwaukee Bucks,Milwaukee,Milwaukee,1358000,77420658,26,56,0.317,5,5,,No,6,17
+Milwaukee Bucks_2008-09,2008,2008-09,Milwaukee Bucks,Milwaukee,Milwaukee,1364000,84073584,34,48,0.415,5,5,,No,6,17
+Milwaukee Bucks_2009-10,2009,2009-10,Milwaukee Bucks,Milwaukee,Milwaukee,1371000,79810415,46,36,0.561,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Milwaukee Bucks_2010-11,2010,2010-11,Milwaukee Bucks,Milwaukee,Milwaukee,1378000,81700096,35,47,0.427,3,5,,No,6,17
+Milwaukee Bucks_2011-12,2011,2011-12,Milwaukee Bucks,Milwaukee,Milwaukee,1385000,68745693,31,35,0.47,3,5,,No,6,17
+Milwaukee Bucks_2012-13,2012,2012-13,Milwaukee Bucks,Milwaukee,Milwaukee,1392000,70111817,38,44,0.463,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Milwaukee Bucks_2013-14,2013,2013-14,Milwaukee Bucks,Milwaukee,Milwaukee,1399000,60060525,15,67,0.183,5,5,,No,6,17
+Milwaukee Bucks_2014-15,2014,2014-15,Milwaukee Bucks,Milwaukee,Milwaukee,1406000,58919473,41,41,0.5,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Milwaukee Bucks_2015-16,2015,2015-16,Milwaukee Bucks,Milwaukee,Milwaukee,1413000,79772046,33,49,0.402,5,5,,No,6,17
+Milwaukee Bucks_2016-17,2016,2016-17,Milwaukee Bucks,Milwaukee,Milwaukee,1420000,102946239,42,40,0.512,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Milwaukee Bucks_2017-18,2017,2017-18,Milwaukee Bucks,Milwaukee,Milwaukee,1428000,126839676,44,38,0.537,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Milwaukee Bucks_2018-19,2018,2018-19,Milwaukee Bucks,Milwaukee,Milwaukee,1435000,134007700,60,22,0.732,1,5,Lost E. Conf. Finals,Yes,3,3
+Milwaukee Bucks_2019-20,2019,2019-20,Milwaukee Bucks,Milwaukee,Milwaukee,1436000,123403921,56,17,0.767,1,5,Lost E. Conf. Semis,Yes,4,5
+Milwaukee Bucks_2020-21,2020,2020-21,Milwaukee Bucks,Milwaukee,Milwaukee,1439000,136623929,46,26,0.639,1,5,Won Finals,Yes,1,1
+Minnesota Timberwolves_1990-91,1990,1990-91,Minnesota Timberwolves,Minnesota,Minneapolis,2087000,14963731,29,53,0.354,5,7,,No,6,17
+Minnesota Timberwolves_1991-92,1991,1991-92,Minnesota Timberwolves,Minnesota,Minneapolis,2116000,20401972,15,67,0.183,6,6,,No,6,17
+Minnesota Timberwolves_1992-93,1992,1992-93,Minnesota Timberwolves,Minnesota,Minneapolis,2146000,25250125,19,63,0.232,5,6,,No,6,17
+Minnesota Timberwolves_1993-94,1993,1993-94,Minnesota Timberwolves,Minnesota,Minneapolis,2175000,27664967,20,62,0.244,5,6,,No,6,17
+Minnesota Timberwolves_1994-95,1994,1994-95,Minnesota Timberwolves,Minnesota,Minneapolis,2206000,30784540,21,61,0.256,6,6,,No,6,17
+Minnesota Timberwolves_1995-96,1995,1995-96,Minnesota Timberwolves,Minnesota,Minneapolis,2236000,38275665,26,56,0.317,5,7,,No,6,17
+Minnesota Timberwolves_1996-97,1996,1996-97,Minnesota Timberwolves,Minnesota,Minneapolis,2268000,39649235,40,42,0.488,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Minnesota Timberwolves_1997-98,1997,1997-98,Minnesota Timberwolves,Minnesota,Minneapolis,2299000,44688740,45,37,0.549,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Minnesota Timberwolves_1998-99,1998,1998-99,Minnesota Timberwolves,Minnesota,Minneapolis,2331000,52361618,25,25,0.5,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Minnesota Timberwolves_1999-00,1999,1999-00,Minnesota Timberwolves,Minnesota,Minneapolis,2364000,66143493,50,32,0.61,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Minnesota Timberwolves_2000-01,2000,2000-01,Minnesota Timberwolves,Minnesota,Minneapolis,2395000,71011552,47,35,0.573,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Minnesota Timberwolves_2001-02,2001,2001-02,Minnesota Timberwolves,Minnesota,Minneapolis,2420000,79792192,50,32,0.61,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Minnesota Timberwolves_2002-03,2002,2002-03,Minnesota Timberwolves,Minnesota,Minneapolis,2445000,85290533,51,31,0.622,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Minnesota Timberwolves_2003-04,2003,2003-04,Minnesota Timberwolves,Minnesota,Minneapolis,2471000,100020234,58,24,0.707,1,7,Lost W. Conf. Finals,Yes,3,3
+Minnesota Timberwolves_2004-05,2004,2004-05,Minnesota Timberwolves,Minnesota,Minneapolis,2497000,95295751,44,38,0.537,3,5,,No,6,17
+Minnesota Timberwolves_2005-06,2005,2005-06,Minnesota Timberwolves,Minnesota,Minneapolis,2523000,81951849,33,49,0.402,4,5,,No,6,17
+Minnesota Timberwolves_2006-07,2006,2006-07,Minnesota Timberwolves,Minnesota,Minneapolis,2549000,84899792,32,50,0.39,4,5,,No,6,17
+Minnesota Timberwolves_2007-08,2007,2007-08,Minnesota Timberwolves,Minnesota,Minneapolis,2576000,85429019,22,60,0.268,4,5,,No,6,17
+Minnesota Timberwolves_2008-09,2008,2008-09,Minnesota Timberwolves,Minnesota,Minneapolis,2603000,78282372,24,58,0.293,4,5,,No,6,17
+Minnesota Timberwolves_2009-10,2009,2009-10,Minnesota Timberwolves,Minnesota,Minneapolis,2630000,74405418,15,67,0.183,5,5,,No,6,17
+Minnesota Timberwolves_2010-11,2010,2010-11,Minnesota Timberwolves,Minnesota,Minneapolis,2658000,63230864,17,65,0.207,5,5,,No,6,17
+Minnesota Timberwolves_2011-12,2011,2011-12,Minnesota Timberwolves,Minnesota,Minneapolis,2686000,64921888,26,40,0.394,5,5,,No,6,17
+Minnesota Timberwolves_2012-13,2012,2012-13,Minnesota Timberwolves,Minnesota,Minneapolis,2714000,72268424,31,51,0.378,5,5,,No,6,17
+Minnesota Timberwolves_2013-14,2013,2013-14,Minnesota Timberwolves,Minnesota,Minneapolis,2742000,75697211,40,42,0.488,3,5,,No,6,17
+Minnesota Timberwolves_2014-15,2014,2014-15,Minnesota Timberwolves,Minnesota,Minneapolis,2771000,75041784,16,66,0.195,5,5,,No,6,17
+Minnesota Timberwolves_2015-16,2015,2015-16,Minnesota Timberwolves,Minnesota,Minneapolis,2800000,78090800,29,53,0.354,5,5,,No,6,17
+Minnesota Timberwolves_2016-17,2016,2016-17,Minnesota Timberwolves,Minnesota,Minneapolis,2829000,89342526,31,51,0.378,5,5,,No,6,17
+Minnesota Timberwolves_2017-18,2017,2017-18,Minnesota Timberwolves,Minnesota,Minneapolis,2859000,122160471,47,35,0.573,4,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Minnesota Timberwolves_2018-19,2018,2018-19,Minnesota Timberwolves,Minnesota,Minneapolis,2889000,124773273,36,46,0.439,5,5,,No,6,17
+Minnesota Timberwolves_2019-20,2019,2019-20,Minnesota Timberwolves,Minnesota,Minneapolis,2907000,114940421,19,45,0.297,5,5,,No,6,17
+Minnesota Timberwolves_2020-21,2020,2020-21,Minnesota Timberwolves,Minnesota,Minneapolis,2926000,130334934,23,49,0.319,4,5,,No,6,17
+New Orleans Hornets_2002-03,2002,2002-03,New Orleans Hornets,New Orleans,New Orleans,1003000,63709647,47,35,0.573,3,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+New Orleans Hornets_2003-04,2003,2003-04,New Orleans Hornets,New Orleans,New Orleans,1001000,69887542,41,41,0.5,3,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+New Orleans Hornets_2004-05,2004,2004-05,New Orleans Hornets,New Orleans,New Orleans,998000,76880958,18,64,0.22,5,5,,No,6,17
+New Orleans/Oklahoma City Hornets_2005-06,2005,2005-06,New Orleans/Oklahoma City Hornets,New Orleans,Oklahoma City,805000,54710769,38,44,0.463,4,5,,No,6,17
+New Orleans/Oklahoma City Hornets_2006-07,2006,2006-07,New Orleans/Oklahoma City Hornets,New Orleans,Oklahoma City,817000,68291410,39,43,0.476,4,5,,No,6,17
+New Orleans Hornets_2007-08,2007,2007-08,New Orleans Hornets,New Orleans,New Orleans,751000,77468256,56,26,0.683,1,5,Lost W. Conf. Semis,Yes,4,5
+New Orleans Hornets_2008-09,2008,2008-09,New Orleans Hornets,New Orleans,New Orleans,802000,79561452,49,33,0.598,4,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+New Orleans Hornets_2009-10,2009,2009-10,New Orleans Hornets,New Orleans,New Orleans,856000,83860035,37,45,0.451,5,5,,No,6,17
+New Orleans Hornets_2010-11,2010,2010-11,New Orleans Hornets,New Orleans,New Orleans,902000,80699541,46,36,0.561,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+New Orleans Hornets_2011-12,2011,2011-12,New Orleans Hornets,New Orleans,New Orleans,911000,74740139,21,45,0.318,5,5,,No,6,17
+New Orleans Hornets_2012-13,2012,2012-13,New Orleans Hornets,New Orleans,New Orleans,921000,72049124,27,55,0.329,5,5,,No,6,17
+New Orleans Pelicans_2013-14,2013,2013-14,New Orleans Pelicans,New Orleans,New Orleans,930000,74366415,34,48,0.415,5,5,,No,6,17
+New Orleans Pelicans_2014-15,2014,2014-15,New Orleans Pelicans,New Orleans,New Orleans,940000,86543655,45,37,0.549,5,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+New Orleans Pelicans_2015-16,2015,2015-16,New Orleans Pelicans,New Orleans,New Orleans,950000,90429946,30,52,0.366,5,5,,No,6,17
+New Orleans Pelicans_2016-17,2016,2016-17,New Orleans Pelicans,New Orleans,New Orleans,959000,108690692,34,48,0.415,4,5,,No,6,17
+New Orleans Pelicans_2017-18,2017,2017-18,New Orleans Pelicans,New Orleans,New Orleans,969000,127148253,48,34,0.585,2,5,Lost W. Conf. Semis,Yes,4,5
+New Orleans Pelicans_2018-19,2018,2018-19,New Orleans Pelicans,New Orleans,New Orleans,979000,118727603,33,49,0.402,4,5,,No,6,17
+New Orleans Pelicans_2019-20,2019,2019-20,New Orleans Pelicans,New Orleans,New Orleans,985000,118629402,30,42,0.417,5,5,,No,6,17
+New Orleans Pelicans_2020-21,2020,2020-21,New Orleans Pelicans,New Orleans,New Orleans,992000,133901495,31,41,0.431,4,5,,No,6,17
+New York Knicks_1990-91,1990,1990-91,New York Knicks,New York,New York,16086000,26375066,39,43,0.476,3,6,Lost E. Conf. 1st Rnd.,Yes,5,9
+New York Knicks_1991-92,1991,1991-92,New York Knicks,New York,New York,16253000,23503118,51,31,0.622,2,7,Lost E. Conf. Semis,Yes,4,5
+New York Knicks_1992-93,1992,1992-93,New York Knicks,New York,New York,16423000,25744758,60,22,0.732,1,7,Lost E. Conf. Finals,Yes,3,3
+New York Knicks_1993-94,1993,1993-94,New York Knicks,New York,New York,16595000,39471142,57,25,0.695,1,7,Lost Finals,Yes,2,2
+New York Knicks_1994-95,1994,1994-95,New York Knicks,New York,New York,16768000,44851269,55,27,0.671,2,7,Lost E. Conf. Semis,Yes,4,5
+New York Knicks_1995-96,1995,1995-96,New York Knicks,New York,New York,16943000,73246458,47,35,0.573,2,7,Lost E. Conf. Semis,Yes,4,5
+New York Knicks_1996-97,1996,1996-97,New York Knicks,New York,New York,17120000,42648370,57,25,0.695,2,7,Lost E. Conf. Semis,Yes,4,5
+New York Knicks_1997-98,1997,1997-98,New York Knicks,New York,New York,17298000,86803252,43,39,0.524,2,7,Lost E. Conf. Semis,Yes,4,5
+New York Knicks_1998-99,1998,1998-99,New York Knicks,New York,New York,17479000,94808240,27,23,0.54,4,7,Lost Finals,Yes,2,2
+New York Knicks_1999-00,1999,1999-00,New York Knicks,New York,New York,17661000,112127728,50,32,0.61,2,7,Lost E. Conf. Finals,Yes,3,3
+New York Knicks_2000-01,2000,2000-01,New York Knicks,New York,New York,17813000,110666888,48,34,0.585,3,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+New York Knicks_2001-02,2001,2001-02,New York Knicks,New York,New York,17868000,124543515,30,52,0.366,7,7,,No,6,17
+New York Knicks_2002-03,2002,2002-03,New York Knicks,New York,New York,17922000,133917407,37,45,0.451,6,7,,No,6,17
+New York Knicks_2003-04,2003,2003-04,New York Knicks,New York,New York,17977000,125523161,39,43,0.476,3,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+New York Knicks_2004-05,2004,2004-05,New York Knicks,New York,New York,18032000,139386413,33,49,0.402,5,5,,No,6,17
+New York Knicks_2005-06,2005,2005-06,New York Knicks,New York,New York,18087000,167841210,23,59,0.28,5,5,,No,6,17
+New York Knicks_2006-07,2006,2006-07,New York Knicks,New York,New York,18142000,149101527,33,49,0.402,4,5,,No,6,17
+New York Knicks_2007-08,2007,2007-08,New York Knicks,New York,New York,18198000,119017437,23,59,0.28,5,5,,No,6,17
+New York Knicks_2008-09,2008,2008-09,New York Knicks,New York,New York,18254000,113860752,32,50,0.39,5,5,,No,6,17
+New York Knicks_2009-10,2009,2009-10,New York Knicks,New York,New York,18309000,102440963,29,53,0.354,3,5,,No,6,17
+New York Knicks_2010-11,2010,2010-11,New York Knicks,New York,New York,18365000,79263490,42,40,0.512,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+New York Knicks_2011-12,2011,2011-12,New York Knicks,New York,New York,18421000,88048116,36,30,0.545,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+New York Knicks_2012-13,2012,2012-13,New York Knicks,New York,New York,18478000,89846778,54,28,0.659,1,5,Lost E. Conf. Semis,Yes,4,5
+New York Knicks_2013-14,2013,2013-14,New York Knicks,New York,New York,18534000,98339622,37,45,0.451,3,5,,No,6,17
+New York Knicks_2014-15,2014,2014-15,New York Knicks,New York,New York,18591000,88010715,17,65,0.207,5,5,,No,6,17
+New York Knicks_2015-16,2015,2015-16,New York Knicks,New York,New York,18648000,80197117,32,50,0.39,3,5,,No,6,17
+New York Knicks_2016-17,2016,2016-17,New York Knicks,New York,New York,18705000,109735673,31,51,0.378,3,5,,No,6,17
+New York Knicks_2017-18,2017,2017-18,New York Knicks,New York,New York,18762000,110928980,29,53,0.354,4,5,,No,6,17
+New York Knicks_2018-19,2018,2018-19,New York Knicks,New York,New York,18819000,126231354,17,65,0.207,5,5,,No,6,17
+New York Knicks_2019-20,2019,2019-20,New York Knicks,New York,New York,18805000,100879351,21,45,0.318,5,5,,No,6,17
+New York Knicks_2020-21,2020,2020-21,New York Knicks,New York,New York,18804000,102137151,41,31,0.569,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Seattle SuperSonics_1990-91,1990,1990-91,Seattle SuperSonics,Oklahoma City,Seattle,2206000,21016702,41,41,0.5,5,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Seattle SuperSonics_1991-92,1991,1991-92,Seattle SuperSonics,Oklahoma City,Seattle,2253000,25226187,47,35,0.573,4,7,Lost W. Conf. Semis,Yes,4,5
+Seattle SuperSonics_1992-93,1992,1992-93,Seattle SuperSonics,Oklahoma City,Seattle,2302000,25803599,55,27,0.671,2,7,Lost W. Conf. Finals,Yes,3,3
+Seattle SuperSonics_1993-94,1993,1993-94,Seattle SuperSonics,Oklahoma City,Seattle,2351000,28505845,63,19,0.768,1,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Seattle SuperSonics_1994-95,1994,1994-95,Seattle SuperSonics,Oklahoma City,Seattle,2401000,41932940,57,25,0.695,2,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Seattle SuperSonics_1995-96,1995,1995-96,Seattle SuperSonics,Oklahoma City,Seattle,2453000,43702080,64,18,0.78,1,7,Lost Finals,Yes,2,2
+Seattle SuperSonics_1996-97,1996,1996-97,Seattle SuperSonics,Oklahoma City,Seattle,2505000,49850891,57,25,0.695,1,7,Lost W. Conf. Semis,Yes,4,5
+Seattle SuperSonics_1997-98,1997,1997-98,Seattle SuperSonics,Oklahoma City,Seattle,2559000,60456323,61,21,0.744,1,7,Lost W. Conf. Semis,Yes,4,5
+Seattle SuperSonics_1998-99,1998,1998-99,Seattle SuperSonics,Oklahoma City,Seattle,2613000,48100614,25,25,0.5,5,7,,No,6,17
+Seattle SuperSonics_1999-00,1999,1999-00,Seattle SuperSonics,Oklahoma City,Seattle,2669000,59344348,45,37,0.549,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Seattle SuperSonics_2000-01,2000,2000-01,Seattle SuperSonics,Oklahoma City,Seattle,2720000,77067926,44,38,0.537,5,7,,No,6,17
+Seattle SuperSonics_2001-02,2001,2001-02,Seattle SuperSonics,Oklahoma City,Seattle,2753000,65979707,45,37,0.549,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Seattle SuperSonics_2002-03,2002,2002-03,Seattle SuperSonics,Oklahoma City,Seattle,2787000,76189081,40,42,0.488,5,7,,No,6,17
+Seattle SuperSonics_2003-04,2003,2003-04,Seattle SuperSonics,Oklahoma City,Seattle,2820000,73462280,37,45,0.451,5,7,,No,6,17
+Seattle SuperSonics_2004-05,2004,2004-05,Seattle SuperSonics,Oklahoma City,Seattle,2855000,73141638,52,30,0.634,1,5,Lost W. Conf. Semis,Yes,4,5
+Seattle SuperSonics_2005-06,2005,2005-06,Seattle SuperSonics,Oklahoma City,Seattle,2889000,65282117,35,47,0.427,3,5,,No,6,17
+Seattle SuperSonics_2006-07,2006,2006-07,Seattle SuperSonics,Oklahoma City,Seattle,2924000,72405285,31,51,0.378,5,5,,No,6,17
+Seattle SuperSonics_2007-08,2007,2007-08,Seattle SuperSonics,Oklahoma City,Seattle,2960000,75304683,20,62,0.244,5,5,,No,6,17
+Oklahoma City Thunder_2008-09,2008,2008-09,Oklahoma City Thunder,Oklahoma City,Oklahoma City,840000,80516684,23,59,0.28,5,5,,No,6,17
+Oklahoma City Thunder_2009-10,2009,2009-10,Oklahoma City Thunder,Oklahoma City,Oklahoma City,852000,70013346,50,32,0.61,4,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Oklahoma City Thunder_2010-11,2010,2010-11,Oklahoma City Thunder,Oklahoma City,Oklahoma City,865000,66142032,55,27,0.671,1,5,Lost W. Conf. Finals,Yes,3,3
+Oklahoma City Thunder_2011-12,2011,2011-12,Oklahoma City Thunder,Oklahoma City,Oklahoma City,877000,67956869,47,19,0.712,1,5,Lost Finals,Yes,2,2
+Oklahoma City Thunder_2012-13,2012,2012-13,Oklahoma City Thunder,Oklahoma City,Oklahoma City,890000,77429752,60,22,0.732,1,5,Lost W. Conf. Semis,Yes,4,5
+Oklahoma City Thunder_2013-14,2013,2013-14,Oklahoma City Thunder,Oklahoma City,Oklahoma City,902000,79107981,59,23,0.72,1,5,Lost W. Conf. Finals,Yes,3,3
+Oklahoma City Thunder_2014-15,2014,2014-15,Oklahoma City Thunder,Oklahoma City,Oklahoma City,915000,86971605,45,37,0.549,2,5,,No,6,17
+Oklahoma City Thunder_2015-16,2015,2015-16,Oklahoma City Thunder,Oklahoma City,Oklahoma City,928000,103392305,55,27,0.671,1,5,Lost W. Conf. Finals,Yes,3,3
+Oklahoma City Thunder_2016-17,2016,2016-17,Oklahoma City Thunder,Oklahoma City,Oklahoma City,942000,97581263,47,35,0.573,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Oklahoma City Thunder_2017-18,2017,2017-18,Oklahoma City Thunder,Oklahoma City,Oklahoma City,955000,141587738,48,34,0.585,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Oklahoma City Thunder_2018-19,2018,2018-19,Oklahoma City Thunder,Oklahoma City,Oklahoma City,969000,148256541,49,33,0.598,4,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Oklahoma City Thunder_2019-20,2019,2019-20,Oklahoma City Thunder,Oklahoma City,Oklahoma City,979000,132870415,44,28,0.611,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Oklahoma City Thunder_2020-21,2020,2020-21,Oklahoma City Thunder,Oklahoma City,Oklahoma City,989000,95774839,22,50,0.306,5,5,,No,6,17
+Orlando Magic_1990-91,1990,1990-91,Orlando Magic,Orlando,Orlando,893000,14947853,31,51,0.378,4,7,,No,6,17
+Orlando Magic_1991-92,1991,1991-92,Orlando Magic,Orlando,Orlando,917000,23220680,21,61,0.256,7,7,,No,6,17
+Orlando Magic_1992-93,1992,1992-93,Orlando Magic,Orlando,Orlando,942000,27526533,41,41,0.5,4,7,,No,6,17
+Orlando Magic_1993-94,1993,1993-94,Orlando Magic,Orlando,Orlando,967000,35597046,50,32,0.61,2,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Orlando Magic_1994-95,1994,1994-95,Orlando Magic,Orlando,Orlando,993000,50636050,57,25,0.695,1,7,Lost Finals,Yes,2,2
+Orlando Magic_1995-96,1995,1995-96,Orlando Magic,Orlando,Orlando,1020000,61747122,60,22,0.732,1,7,Lost E. Conf. Finals,Yes,3,3
+Orlando Magic_1996-97,1996,1996-97,Orlando Magic,Orlando,Orlando,1048000,66051793,45,37,0.549,3,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Orlando Magic_1997-98,1997,1997-98,Orlando Magic,Orlando,Orlando,1076000,70687990,41,41,0.5,5,7,,No,6,17
+Orlando Magic_1998-99,1998,1998-99,Orlando Magic,Orlando,Orlando,1105000,72939146,33,17,0.66,2,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Orlando Magic_1999-00,1999,1999-00,Orlando Magic,Orlando,Orlando,1134000,64506322,41,41,0.5,4,7,,No,6,17
+Orlando Magic_2000-01,2000,2000-01,Orlando Magic,Orlando,Orlando,1165000,56015304,43,39,0.524,4,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Orlando Magic_2001-02,2001,2001-02,Orlando Magic,Orlando,Orlando,1197000,66598516,44,38,0.537,3,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Orlando Magic_2002-03,2002,2002-03,Orlando Magic,Orlando,Orlando,1229000,72273927,42,40,0.512,4,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Orlando Magic_2003-04,2003,2003-04,Orlando Magic,Orlando,Orlando,1262000,70993689,21,61,0.256,7,7,,No,6,17
+Orlando Magic_2004-05,2004,2004-05,Orlando Magic,Orlando,Orlando,1296000,90297231,36,46,0.439,3,5,,No,6,17
+Orlando Magic_2005-06,2005,2005-06,Orlando Magic,Orlando,Orlando,1331000,100447753,36,46,0.439,3,5,,No,6,17
+Orlando Magic_2006-07,2006,2006-07,Orlando Magic,Orlando,Orlando,1367000,78072345,40,42,0.488,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Orlando Magic_2007-08,2007,2007-08,Orlando Magic,Orlando,Orlando,1404000,71969607,52,30,0.634,1,5,Lost E. Conf. Semis,Yes,4,5
+Orlando Magic_2008-09,2008,2008-09,Orlando Magic,Orlando,Orlando,1442000,82085248,59,23,0.72,1,5,Lost Finals,Yes,2,2
+Orlando Magic_2009-10,2009,2009-10,Orlando Magic,Orlando,Orlando,1481000,98246805,59,23,0.72,1,5,Lost E. Conf. Finals,Yes,3,3
+Orlando Magic_2010-11,2010,2010-11,Orlando Magic,Orlando,Orlando,1521000,107358700,52,30,0.634,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Orlando Magic_2011-12,2011,2011-12,Orlando Magic,Orlando,Orlando,1562000,100453936,37,29,0.561,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Orlando Magic_2012-13,2012,2012-13,Orlando Magic,Orlando,Orlando,1604000,74771093,20,62,0.244,5,5,,No,6,17
+Orlando Magic_2013-14,2013,2013-14,Orlando Magic,Orlando,Orlando,1647000,62872712,23,59,0.28,5,5,,No,6,17
+Orlando Magic_2014-15,2014,2014-15,Orlando Magic,Orlando,Orlando,1691000,64496249,25,57,0.305,5,5,,No,6,17
+Orlando Magic_2015-16,2015,2015-16,Orlando Magic,Orlando,Orlando,1737000,68273611,35,47,0.427,5,5,,No,6,17
+Orlando Magic_2016-17,2016,2016-17,Orlando Magic,Orlando,Orlando,1784000,111343881,29,53,0.354,5,5,,No,6,17
+Orlando Magic_2017-18,2017,2017-18,Orlando Magic,Orlando,Orlando,1832000,103874703,25,57,0.305,4,5,,No,6,17
+Orlando Magic_2018-19,2018,2018-19,Orlando Magic,Orlando,Orlando,1882000,117030832,42,40,0.512,1,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Orlando Magic_2019-20,2019,2019-20,Orlando Magic,Orlando,Orlando,1923000,126909843,33,40,0.452,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Orlando Magic_2020-21,2020,2020-21,Orlando Magic,Orlando,Orlando,1964000,121739163,21,51,0.292,5,5,,No,6,17
+Philadelphia 76ers_1990-91,1990,1990-91,Philadelphia 76ers,Philadelphia,Philadelphia,4725000,23100510,44,38,0.537,2,6,Lost E. Conf. Semis,Yes,4,5
+Philadelphia 76ers_1991-92,1991,1991-92,Philadelphia 76ers,Philadelphia,Philadelphia,4767000,26647862,35,47,0.427,5,7,,No,6,17
+Philadelphia 76ers_1992-93,1992,1992-93,Philadelphia 76ers,Philadelphia,Philadelphia,4809000,31934091,26,56,0.317,6,7,,No,6,17
+Philadelphia 76ers_1993-94,1993,1993-94,Philadelphia 76ers,Philadelphia,Philadelphia,4852000,27411455,25,57,0.305,6,7,,No,6,17
+Philadelphia 76ers_1994-95,1994,1994-95,Philadelphia 76ers,Philadelphia,Philadelphia,4895000,34331429,24,58,0.293,6,7,,No,6,17
+Philadelphia 76ers_1995-96,1995,1995-96,Philadelphia 76ers,Philadelphia,Philadelphia,4938000,42486631,18,64,0.22,7,7,,No,6,17
+Philadelphia 76ers_1996-97,1996,1996-97,Philadelphia 76ers,Philadelphia,Philadelphia,4982000,38940172,22,60,0.268,6,7,,No,6,17
+Philadelphia 76ers_1997-98,1997,1997-98,Philadelphia 76ers,Philadelphia,Philadelphia,5026000,50530972,31,51,0.378,7,7,,No,6,17
+Philadelphia 76ers_1998-99,1998,1998-99,Philadelphia 76ers,Philadelphia,Philadelphia,5070000,65651113,28,22,0.56,3,7,Lost E. Conf. Semis,Yes,4,5
+Philadelphia 76ers_1999-00,1999,1999-00,Philadelphia 76ers,Philadelphia,Philadelphia,5115000,68079794,49,33,0.598,3,7,Lost E. Conf. Semis,Yes,4,5
+Philadelphia 76ers_2000-01,2000,2000-01,Philadelphia 76ers,Philadelphia,Philadelphia,5156000,76390235,56,26,0.683,1,7,Lost Finals,Yes,2,2
+Philadelphia 76ers_2001-02,2001,2001-02,Philadelphia 76ers,Philadelphia,Philadelphia,5185000,84107518,43,39,0.524,4,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Philadelphia 76ers_2002-03,2002,2002-03,Philadelphia 76ers,Philadelphia,Philadelphia,5213000,92890723,48,34,0.585,2,7,Lost E. Conf. Semis,Yes,4,5
+Philadelphia 76ers_2003-04,2003,2003-04,Philadelphia 76ers,Philadelphia,Philadelphia,5242000,84778406,33,49,0.402,5,7,,No,6,17
+Philadelphia 76ers_2004-05,2004,2004-05,Philadelphia 76ers,Philadelphia,Philadelphia,5271000,97780585,43,39,0.524,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Philadelphia 76ers_2005-06,2005,2005-06,Philadelphia 76ers,Philadelphia,Philadelphia,5301000,112406507,38,44,0.463,2,5,,No,6,17
+Philadelphia 76ers_2006-07,2006,2006-07,Philadelphia 76ers,Philadelphia,Philadelphia,5330000,87846844,35,47,0.427,3,5,,No,6,17
+Philadelphia 76ers_2007-08,2007,2007-08,Philadelphia 76ers,Philadelphia,Philadelphia,5359000,91608582,40,42,0.488,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Philadelphia 76ers_2008-09,2008,2008-09,Philadelphia 76ers,Philadelphia,Philadelphia,5389000,80468857,41,41,0.5,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Philadelphia 76ers_2009-10,2009,2009-10,Philadelphia 76ers,Philadelphia,Philadelphia,5419000,77548908,27,55,0.329,4,5,,No,6,17
+Philadelphia 76ers_2010-11,2010,2010-11,Philadelphia 76ers,Philadelphia,Philadelphia,5449000,81509152,41,41,0.5,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Philadelphia 76ers_2011-12,2011,2011-12,Philadelphia 76ers,Philadelphia,Philadelphia,5479000,76146474,35,31,0.53,3,5,Lost E. Conf. Semis,Yes,4,5
+Philadelphia 76ers_2012-13,2012,2012-13,Philadelphia 76ers,Philadelphia,Philadelphia,5510000,74928756,34,48,0.415,4,5,,No,6,17
+Philadelphia 76ers_2013-14,2013,2013-14,Philadelphia 76ers,Philadelphia,Philadelphia,5540000,57124300,19,63,0.232,5,5,,No,6,17
+Philadelphia 76ers_2014-15,2014,2014-15,Philadelphia 76ers,Philadelphia,Philadelphia,5571000,58792158,18,64,0.22,4,5,,No,6,17
+Philadelphia 76ers_2015-16,2015,2015-16,Philadelphia 76ers,Philadelphia,Philadelphia,5602000,69768256,10,72,0.122,5,5,,No,6,17
+Philadelphia 76ers_2016-17,2016,2016-17,Philadelphia 76ers,Philadelphia,Philadelphia,5633000,90677150,28,54,0.341,4,5,,No,6,17
+Philadelphia 76ers_2017-18,2017,2017-18,Philadelphia 76ers,Philadelphia,Philadelphia,5664000,106081772,52,30,0.634,3,5,Lost E. Conf. Semis,Yes,4,5
+Philadelphia 76ers_2018-19,2018,2018-19,Philadelphia 76ers,Philadelphia,Philadelphia,5695000,117780678,51,31,0.622,2,5,Lost E. Conf. Semis,Yes,4,5
+Philadelphia 76ers_2019-20,2019,2019-20,Philadelphia 76ers,Philadelphia,Philadelphia,5705000,130751219,43,30,0.589,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Philadelphia 76ers_2020-21,2020,2020-21,Philadelphia 76ers,Philadelphia,Philadelphia,5717000,147825311,49,23,0.681,1,5,Lost E. Conf. Semis,Yes,4,5
+Phoenix Suns_1990-91,1990,1990-91,Phoenix Suns,Phoenix,Phoenix,2025000,22749238,55,27,0.671,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Phoenix Suns_1991-92,1991,1991-92,Phoenix Suns,Phoenix,Phoenix,2101000,25766425,53,29,0.646,3,7,Lost W. Conf. Semis,Yes,4,5
+Phoenix Suns_1992-93,1992,1992-93,Phoenix Suns,Phoenix,Phoenix,2181000,26257776,62,20,0.756,1,7,Lost Finals,Yes,2,2
+Phoenix Suns_1993-94,1993,1993-94,Phoenix Suns,Phoenix,Phoenix,2263000,38357113,56,26,0.683,2,7,Lost W. Conf. Semis,Yes,4,5
+Phoenix Suns_1994-95,1994,1994-95,Phoenix Suns,Phoenix,Phoenix,2349000,40360696,59,23,0.72,1,7,Lost W. Conf. Semis,Yes,4,5
+Phoenix Suns_1995-96,1995,1995-96,Phoenix Suns,Phoenix,Phoenix,2437000,61744488,41,41,0.5,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Phoenix Suns_1996-97,1996,1996-97,Phoenix Suns,Phoenix,Phoenix,2530000,59456173,40,42,0.488,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Phoenix Suns_1997-98,1997,1997-98,Phoenix Suns,Phoenix,Phoenix,2625000,59404069,56,26,0.683,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Phoenix Suns_1998-99,1998,1998-99,Phoenix Suns,Phoenix,Phoenix,2724000,57097283,27,23,0.54,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Phoenix Suns_1999-00,1999,1999-00,Phoenix Suns,Phoenix,Phoenix,2827000,72195616,53,29,0.646,3,7,Lost W. Conf. Semis,Yes,4,5
+Phoenix Suns_2000-01,2000,2000-01,Phoenix Suns,Phoenix,Phoenix,2923000,80608430,51,31,0.622,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Phoenix Suns_2001-02,2001,2001-02,Phoenix Suns,Phoenix,Phoenix,2989000,81968386,36,46,0.439,6,7,,No,6,17
+Phoenix Suns_2002-03,2002,2002-03,Phoenix Suns,Phoenix,Phoenix,3056000,79137624,44,38,0.537,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Phoenix Suns_2003-04,2003,2003-04,Phoenix Suns,Phoenix,Phoenix,3124000,93929275,29,53,0.354,6,7,,No,6,17
+Phoenix Suns_2004-05,2004,2004-05,Phoenix Suns,Phoenix,Phoenix,3194000,60608355,62,20,0.756,1,5,Lost W. Conf. Finals,Yes,3,3
+Phoenix Suns_2005-06,2005,2005-06,Phoenix Suns,Phoenix,Phoenix,3266000,71078962,54,28,0.659,1,5,Lost W. Conf. Finals,Yes,3,3
+Phoenix Suns_2006-07,2006,2006-07,Phoenix Suns,Phoenix,Phoenix,3339000,83655209,61,21,0.744,1,5,Lost W. Conf. Semis,Yes,4,5
+Phoenix Suns_2007-08,2007,2007-08,Phoenix Suns,Phoenix,Phoenix,3414000,88249053,55,27,0.671,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Phoenix Suns_2008-09,2008,2008-09,Phoenix Suns,Phoenix,Phoenix,3491000,89693071,46,36,0.561,2,5,,No,6,17
+Phoenix Suns_2009-10,2009,2009-10,Phoenix Suns,Phoenix,Phoenix,3569000,78033080,54,28,0.659,2,5,Lost W. Conf. Finals,Yes,3,3
+Phoenix Suns_2010-11,2010,2010-11,Phoenix Suns,Phoenix,Phoenix,3649000,78036385,40,42,0.488,2,5,,No,6,17
+Phoenix Suns_2011-12,2011,2011-12,Phoenix Suns,Phoenix,Phoenix,3731000,92099560,33,33,0.5,3,5,,No,6,17
+Phoenix Suns_2012-13,2012,2012-13,Phoenix Suns,Phoenix,Phoenix,3815000,60884409,25,57,0.305,5,5,,No,6,17
+Phoenix Suns_2013-14,2013,2013-14,Phoenix Suns,Phoenix,Phoenix,3900000,61350727,48,34,0.585,3,5,,No,6,17
+Phoenix Suns_2014-15,2014,2014-15,Phoenix Suns,Phoenix,Phoenix,3988000,62754255,39,43,0.476,3,5,,No,6,17
+Phoenix Suns_2015-16,2015,2015-16,Phoenix Suns,Phoenix,Phoenix,4077000,73562377,23,59,0.28,4,5,,No,6,17
+Phoenix Suns_2016-17,2016,2016-17,Phoenix Suns,Phoenix,Phoenix,4169000,96003042,24,58,0.293,5,5,,No,6,17
+Phoenix Suns_2017-18,2017,2017-18,Phoenix Suns,Phoenix,Phoenix,4263000,97543120,21,61,0.256,5,5,,No,6,17
+Phoenix Suns_2018-19,2018,2018-19,Phoenix Suns,Phoenix,Phoenix,4359000,111198041,19,63,0.232,5,5,,No,6,17
+Phoenix Suns_2019-20,2019,2019-20,Phoenix Suns,Phoenix,Phoenix,4436000,99175970,34,39,0.466,3,5,,No,6,17
+Phoenix Suns_2020-21,2020,2020-21,Phoenix Suns,Phoenix,Phoenix,4511000,128858241,51,21,0.708,1,5,Lost Finals,Yes,2,2
+Portland Trail Blazers_1990-91,1990,1990-91,Portland Trail Blazers,Portland,Portland,1181000,22257064,63,19,0.768,1,7,Lost W. Conf. Finals,Yes,3,3
+Portland Trail Blazers_1991-92,1991,1991-92,Portland Trail Blazers,Portland,Portland,1217000,24153296,57,25,0.695,1,7,Lost Finals,Yes,2,2
+Portland Trail Blazers_1992-93,1992,1992-93,Portland Trail Blazers,Portland,Portland,1254000,30098989,51,31,0.622,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_1993-94,1993,1993-94,Portland Trail Blazers,Portland,Portland,1292000,42015189,47,35,0.573,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_1994-95,1994,1994-95,Portland Trail Blazers,Portland,Portland,1332000,46434808,44,38,0.537,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_1995-96,1995,1995-96,Portland Trail Blazers,Portland,Portland,1372000,40446229,44,38,0.537,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_1996-97,1996,1996-97,Portland Trail Blazers,Portland,Portland,1414000,40970303,49,33,0.598,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_1997-98,1997,1997-98,Portland Trail Blazers,Portland,Portland,1457000,44687034,46,36,0.561,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_1998-99,1998,1998-99,Portland Trail Blazers,Portland,Portland,1502000,86552568,35,15,0.7,1,7,Lost W. Conf. Finals,Yes,3,3
+Portland Trail Blazers_1999-00,1999,1999-00,Portland Trail Blazers,Portland,Portland,1548000,114626133,59,23,0.72,2,7,Lost W. Conf. Finals,Yes,3,3
+Portland Trail Blazers_2000-01,2000,2000-01,Portland Trail Blazers,Portland,Portland,1589000,130685637,50,32,0.61,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_2001-02,2001,2001-02,Portland Trail Blazers,Portland,Portland,1614000,122081136,49,33,0.598,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_2002-03,2002,2002-03,Portland Trail Blazers,Portland,Portland,1640000,151318745,50,32,0.61,3,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_2003-04,2003,2003-04,Portland Trail Blazers,Portland,Portland,1665000,116418097,41,41,0.5,3,7,,No,6,17
+Portland Trail Blazers_2004-05,2004,2004-05,Portland Trail Blazers,Portland,Portland,1691000,113706964,27,55,0.329,4,5,,No,6,17
+Portland Trail Blazers_2005-06,2005,2005-06,Portland Trail Blazers,Portland,Portland,1718000,79549869,21,61,0.256,5,5,,No,6,17
+Portland Trail Blazers_2006-07,2006,2006-07,Portland Trail Blazers,Portland,Portland,1745000,95325656,32,50,0.39,3,5,,No,6,17
+Portland Trail Blazers_2007-08,2007,2007-08,Portland Trail Blazers,Portland,Portland,1772000,90622575,41,41,0.5,3,5,,No,6,17
+Portland Trail Blazers_2008-09,2008,2008-09,Portland Trail Blazers,Portland,Portland,1800000,94558421,54,28,0.659,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_2009-10,2009,2009-10,Portland Trail Blazers,Portland,Portland,1828000,68062351,50,32,0.61,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_2010-11,2010,2010-11,Portland Trail Blazers,Portland,Portland,1857000,88213909,48,34,0.585,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_2011-12,2011,2011-12,Portland Trail Blazers,Portland,Portland,1886000,92419505,28,38,0.424,4,5,,No,6,17
+Portland Trail Blazers_2012-13,2012,2012-13,Portland Trail Blazers,Portland,Portland,1916000,66778171,33,49,0.402,4,5,,No,6,17
+Portland Trail Blazers_2013-14,2013,2013-14,Portland Trail Blazers,Portland,Portland,1946000,67633673,54,28,0.659,2,5,Lost W. Conf. Semis,Yes,4,5
+Portland Trail Blazers_2014-15,2014,2014-15,Portland Trail Blazers,Portland,Portland,1976000,75645209,51,31,0.622,1,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_2015-16,2015,2015-16,Portland Trail Blazers,Portland,Portland,2008000,66638236,44,38,0.537,2,5,Lost W. Conf. Semis,Yes,4,5
+Portland Trail Blazers_2016-17,2016,2016-17,Portland Trail Blazers,Portland,Portland,2039000,128067649,41,41,0.5,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_2017-18,2017,2017-18,Portland Trail Blazers,Portland,Portland,2071000,124931523,49,33,0.598,1,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_2018-19,2018,2018-19,Portland Trail Blazers,Portland,Portland,2104000,133258826,53,29,0.646,2,5,Lost W. Conf. Finals,Yes,3,3
+Portland Trail Blazers_2019-20,2019,2019-20,Portland Trail Blazers,Portland,Portland,2127000,132832183,35,39,0.473,4,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Portland Trail Blazers_2020-21,2020,2020-21,Portland Trail Blazers,Portland,Portland,2151000,131904647,42,30,0.583,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Sacramento Kings_1990-91,1990,1990-91,Sacramento Kings,Sacramento,Sacramento,1104000,19061891,25,57,0.305,7,7,,No,6,17
+Sacramento Kings_1991-92,1991,1991-92,Sacramento Kings,Sacramento,Sacramento,1130000,23679405,29,53,0.354,7,7,,No,6,17
+Sacramento Kings_1992-93,1992,1992-93,Sacramento Kings,Sacramento,Sacramento,1158000,25656496,25,57,0.305,7,7,,No,6,17
+Sacramento Kings_1993-94,1993,1993-94,Sacramento Kings,Sacramento,Sacramento,1186000,31058818,28,54,0.341,6,7,,No,6,17
+Sacramento Kings_1994-95,1994,1994-95,Sacramento Kings,Sacramento,Sacramento,1214000,35201476,39,43,0.476,5,7,,No,6,17
+Sacramento Kings_1995-96,1995,1995-96,Sacramento Kings,Sacramento,Sacramento,1244000,41232297,39,43,0.476,5,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Sacramento Kings_1996-97,1996,1996-97,Sacramento Kings,Sacramento,Sacramento,1274000,45768748,34,48,0.415,6,7,,No,6,17
+Sacramento Kings_1997-98,1997,1997-98,Sacramento Kings,Sacramento,Sacramento,1305000,48321007,27,55,0.329,5,7,,No,6,17
+Sacramento Kings_1998-99,1998,1998-99,Sacramento Kings,Sacramento,Sacramento,1336000,51032726,27,23,0.54,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Sacramento Kings_1999-00,1999,1999-00,Sacramento Kings,Sacramento,Sacramento,1369000,62220470,44,38,0.537,5,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Sacramento Kings_2000-01,2000,2000-01,Sacramento Kings,Sacramento,Sacramento,1401000,69183929,55,27,0.671,2,7,Lost W. Conf. Semis,Yes,4,5
+Sacramento Kings_2001-02,2001,2001-02,Sacramento Kings,Sacramento,Sacramento,1431000,79541971,61,21,0.744,1,7,Lost W. Conf. Finals,Yes,3,3
+Sacramento Kings_2002-03,2002,2002-03,Sacramento Kings,Sacramento,Sacramento,1462000,100907091,59,23,0.72,1,7,Lost W. Conf. Semis,Yes,4,5
+Sacramento Kings_2003-04,2003,2003-04,Sacramento Kings,Sacramento,Sacramento,1493000,95951595,55,27,0.671,2,7,Lost W. Conf. Semis,Yes,4,5
+Sacramento Kings_2004-05,2004,2004-05,Sacramento Kings,Sacramento,Sacramento,1525000,83994914,50,32,0.61,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Sacramento Kings_2005-06,2005,2005-06,Sacramento Kings,Sacramento,Sacramento,1558000,83253149,44,38,0.537,4,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Sacramento Kings_2006-07,2006,2006-07,Sacramento Kings,Sacramento,Sacramento,1591000,81692814,33,49,0.402,5,5,,No,6,17
+Sacramento Kings_2007-08,2007,2007-08,Sacramento Kings,Sacramento,Sacramento,1626000,78449733,38,44,0.463,4,5,,No,6,17
+Sacramento Kings_2008-09,2008,2008-09,Sacramento Kings,Sacramento,Sacramento,1661000,81533319,17,65,0.207,5,5,,No,6,17
+Sacramento Kings_2009-10,2009,2009-10,Sacramento Kings,Sacramento,Sacramento,1696000,80695005,25,57,0.305,5,5,,No,6,17
+Sacramento Kings_2010-11,2010,2010-11,Sacramento Kings,Sacramento,Sacramento,1733000,53541040,24,58,0.293,5,5,,No,6,17
+Sacramento Kings_2011-12,2011,2011-12,Sacramento Kings,Sacramento,Sacramento,1770000,55906037,22,44,0.333,5,5,,No,6,17
+Sacramento Kings_2012-13,2012,2012-13,Sacramento Kings,Sacramento,Sacramento,1808000,61137931,28,54,0.341,4,5,,No,6,17
+Sacramento Kings_2013-14,2013,2013-14,Sacramento Kings,Sacramento,Sacramento,1847000,65330434,28,54,0.341,4,5,,No,6,17
+Sacramento Kings_2014-15,2014,2014-15,Sacramento Kings,Sacramento,Sacramento,1887000,79368398,29,53,0.354,4,5,,No,6,17
+Sacramento Kings_2015-16,2015,2015-16,Sacramento Kings,Sacramento,Sacramento,1927000,76279505,33,49,0.402,3,5,,No,6,17
+Sacramento Kings_2016-17,2016,2016-17,Sacramento Kings,Sacramento,Sacramento,1969000,102251465,32,50,0.39,3,5,,No,6,17
+Sacramento Kings_2017-18,2017,2017-18,Sacramento Kings,Sacramento,Sacramento,2011000,104808123,27,55,0.329,4,5,,No,6,17
+Sacramento Kings_2018-19,2018,2018-19,Sacramento Kings,Sacramento,Sacramento,2054000,103805581,39,43,0.476,3,5,,No,6,17
+Sacramento Kings_2019-20,2019,2019-20,Sacramento Kings,Sacramento,Sacramento,2089000,114531782,31,41,0.431,4,5,,No,6,17
+Sacramento Kings_2020-21,2020,2020-21,Sacramento Kings,Sacramento,Sacramento,2123000,106847430,31,41,0.431,5,5,,No,6,17
+San Antonio Spurs_1990-91,1990,1990-91,San Antonio Spurs,San Antonio,San Antonio,1134000,21943500,55,27,0.671,1,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+San Antonio Spurs_1991-92,1991,1991-92,San Antonio Spurs,San Antonio,San Antonio,1152000,21963918,47,35,0.573,2,6,Lost W. Conf. 1st Rnd.,Yes,5,9
+San Antonio Spurs_1992-93,1992,1992-93,San Antonio Spurs,San Antonio,San Antonio,1171000,33250659,49,33,0.598,2,6,Lost W. Conf. Semis,Yes,4,5
+San Antonio Spurs_1993-94,1993,1993-94,San Antonio Spurs,San Antonio,San Antonio,1190000,34485457,55,27,0.671,2,6,Lost W. Conf. 1st Rnd.,Yes,5,9
+San Antonio Spurs_1994-95,1994,1994-95,San Antonio Spurs,San Antonio,San Antonio,1210000,39578768,62,20,0.756,1,6,Lost W. Conf. Finals,Yes,3,3
+San Antonio Spurs_1995-96,1995,1995-96,San Antonio Spurs,San Antonio,San Antonio,1229000,44887096,59,23,0.72,1,7,Lost W. Conf. Semis,Yes,4,5
+San Antonio Spurs_1996-97,1996,1996-97,San Antonio Spurs,San Antonio,San Antonio,1249000,50647150,20,62,0.244,6,7,,No,6,17
+San Antonio Spurs_1997-98,1997,1997-98,San Antonio Spurs,San Antonio,San Antonio,1270000,62473007,56,26,0.683,2,7,Lost W. Conf. Semis,Yes,4,5
+San Antonio Spurs_1998-99,1998,1998-99,San Antonio Spurs,San Antonio,San Antonio,1290000,69085072,37,13,0.74,1,7,Won Finals,Yes,1,1
+San Antonio Spurs_1999-00,1999,1999-00,San Antonio Spurs,San Antonio,San Antonio,1311000,65969036,53,29,0.646,2,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+San Antonio Spurs_2000-01,2000,2000-01,San Antonio Spurs,San Antonio,San Antonio,1337000,85557399,58,24,0.707,1,7,Lost W. Conf. Finals,Yes,3,3
+San Antonio Spurs_2001-02,2001,2001-02,San Antonio Spurs,San Antonio,San Antonio,1375000,66396932,58,24,0.707,1,7,Lost W. Conf. Semis,Yes,4,5
+San Antonio Spurs_2002-03,2002,2002-03,San Antonio Spurs,San Antonio,San Antonio,1414000,76210688,60,22,0.732,1,7,Won Finals,Yes,1,1
+San Antonio Spurs_2003-04,2003,2003-04,San Antonio Spurs,San Antonio,San Antonio,1454000,65205740,57,25,0.695,2,7,Lost W. Conf. Semis,Yes,4,5
+San Antonio Spurs_2004-05,2004,2004-05,San Antonio Spurs,San Antonio,San Antonio,1496000,64556769,59,23,0.72,1,5,Won Finals,Yes,1,1
+San Antonio Spurs_2005-06,2005,2005-06,San Antonio Spurs,San Antonio,San Antonio,1538000,84258224,63,19,0.768,1,5,Lost W. Conf. Semis,Yes,4,5
+San Antonio Spurs_2006-07,2006,2006-07,San Antonio Spurs,San Antonio,San Antonio,1582000,83417867,58,24,0.707,2,5,Won Finals,Yes,1,1
+San Antonio Spurs_2007-08,2007,2007-08,San Antonio Spurs,San Antonio,San Antonio,1627000,86672059,56,26,0.683,2,5,Lost W. Conf. Finals,Yes,3,3
+San Antonio Spurs_2008-09,2008,2008-09,San Antonio Spurs,San Antonio,San Antonio,1674000,80138361,54,28,0.659,1,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+San Antonio Spurs_2009-10,2009,2009-10,San Antonio Spurs,San Antonio,San Antonio,1722000,94825407,50,32,0.61,2,5,Lost W. Conf. Semis,Yes,4,5
+San Antonio Spurs_2010-11,2010,2010-11,San Antonio Spurs,San Antonio,San Antonio,1771000,82227153,61,21,0.744,1,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+San Antonio Spurs_2011-12,2011,2011-12,San Antonio Spurs,San Antonio,San Antonio,1821000,84210148,50,16,0.758,1,5,Lost W. Conf. Finals,Yes,3,3
+San Antonio Spurs_2012-13,2012,2012-13,San Antonio Spurs,San Antonio,San Antonio,1873000,78457104,58,24,0.707,1,5,Lost Finals,Yes,2,2
+San Antonio Spurs_2013-14,2013,2013-14,San Antonio Spurs,San Antonio,San Antonio,1926000,69682278,62,20,0.756,1,5,Won Finals,Yes,1,1
+San Antonio Spurs_2014-15,2014,2014-15,San Antonio Spurs,San Antonio,San Antonio,1981000,76546596,55,27,0.671,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+San Antonio Spurs_2015-16,2015,2015-16,San Antonio Spurs,San Antonio,San Antonio,2038000,94884468,67,15,0.817,1,5,Lost W. Conf. Semis,Yes,4,5
+San Antonio Spurs_2016-17,2016,2016-17,San Antonio Spurs,San Antonio,San Antonio,2096000,119816133,61,21,0.744,1,5,Lost W. Conf. Finals,Yes,3,3
+San Antonio Spurs_2017-18,2017,2017-18,San Antonio Spurs,San Antonio,San Antonio,2156000,120643621,47,35,0.573,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+San Antonio Spurs_2018-19,2018,2018-19,San Antonio Spurs,San Antonio,San Antonio,2217000,124391233,48,34,0.585,2,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+San Antonio Spurs_2019-20,2019,2019-20,San Antonio Spurs,San Antonio,San Antonio,2269000,119987148,32,39,0.451,4,5,,No,6,17
+San Antonio Spurs_2020-21,2020,2020-21,San Antonio Spurs,San Antonio,San Antonio,2320000,129537825,33,39,0.458,3,5,,No,6,17
+Toronto Raptors_1995-96,1995,1995-96,Toronto Raptors,Toronto,Toronto,4197000,30352420,21,61,0.256,8,8,,No,6,17
+Toronto Raptors_1996-97,1996,1996-97,Toronto Raptors,Toronto,Toronto,4274000,30655791,30,52,0.366,8,8,,No,6,17
+Toronto Raptors_1997-98,1997,1997-98,Toronto Raptors,Toronto,Toronto,4355000,39801574,16,66,0.195,8,8,,No,6,17
+Toronto Raptors_1998-99,1998,1998-99,Toronto Raptors,Toronto,Toronto,4437000,54356410,23,27,0.46,6,8,,No,6,17
+Toronto Raptors_1999-00,1999,1999-00,Toronto Raptors,Toronto,Toronto,4521000,53871064,45,37,0.549,3,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Toronto Raptors_2000-01,2000,2000-01,Toronto Raptors,Toronto,Toronto,4607000,57292160,47,35,0.573,2,8,Lost E. Conf. Semis,Yes,4,5
+Toronto Raptors_2001-02,2001,2001-02,Toronto Raptors,Toronto,Toronto,4694000,76263240,42,40,0.512,3,8,Lost E. Conf. 1st Rnd.,Yes,5,9
+Toronto Raptors_2002-03,2002,2002-03,Toronto Raptors,Toronto,Toronto,4777000,79400043,24,58,0.293,7,8,,No,6,17
+Toronto Raptors_2003-04,2003,2003-04,Toronto Raptors,Toronto,Toronto,4861000,88458245,33,49,0.402,6,8,,No,6,17
+Toronto Raptors_2004-05,2004,2004-05,Toronto Raptors,Toronto,Toronto,4948000,83853697,33,49,0.402,4,5,,No,6,17
+Toronto Raptors_2005-06,2005,2005-06,Toronto Raptors,Toronto,Toronto,5035000,82722851,27,55,0.329,4,5,,No,6,17
+Toronto Raptors_2006-07,2006,2006-07,Toronto Raptors,Toronto,Toronto,5125000,64818328,47,35,0.573,1,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Toronto Raptors_2007-08,2007,2007-08,Toronto Raptors,Toronto,Toronto,5216000,81715196,41,41,0.5,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Toronto Raptors_2008-09,2008,2008-09,Toronto Raptors,Toronto,Toronto,5309000,86531577,33,49,0.402,4,5,,No,6,17
+Toronto Raptors_2009-10,2009,2009-10,Toronto Raptors,Toronto,Toronto,5403000,81061593,40,42,0.488,2,5,,No,6,17
+Toronto Raptors_2010-11,2010,2010-11,Toronto Raptors,Toronto,Toronto,5499000,82783441,22,60,0.268,5,5,,No,6,17
+Toronto Raptors_2011-12,2011,2011-12,Toronto Raptors,Toronto,Toronto,5593000,62887477,23,43,0.348,4,5,,No,6,17
+Toronto Raptors_2012-13,2012,2012-13,Toronto Raptors,Toronto,Toronto,5660000,71570109,34,48,0.415,5,5,,No,6,17
+Toronto Raptors_2013-14,2013,2013-14,Toronto Raptors,Toronto,Toronto,5728000,79006676,48,34,0.585,1,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Toronto Raptors_2014-15,2014,2014-15,Toronto Raptors,Toronto,Toronto,5797000,87955279,49,33,0.598,1,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Toronto Raptors_2015-16,2015,2015-16,Toronto Raptors,Toronto,Toronto,5867000,77338864,56,26,0.683,1,5,Lost E. Conf. Finals,Yes,3,3
+Toronto Raptors_2016-17,2016,2016-17,Toronto Raptors,Toronto,Toronto,5938000,116160386,51,31,0.622,2,5,Lost E. Conf. Semis,Yes,4,5
+Toronto Raptors_2017-18,2017,2017-18,Toronto Raptors,Toronto,Toronto,6010000,123059496,59,23,0.72,1,5,Lost E. Conf. Semis,Yes,4,5
+Toronto Raptors_2018-19,2018,2018-19,Toronto Raptors,Toronto,Toronto,6082000,140969781,58,24,0.707,1,5,Won Finals,Yes,1,1
+Toronto Raptors_2019-20,2019,2019-20,Toronto Raptors,Toronto,Toronto,6139000,123254273,53,19,0.736,1,5,Lost E. Conf. Semis,Yes,4,5
+Toronto Raptors_2020-21,2020,2020-21,Toronto Raptors,Toronto,Toronto,6197000,129131910,27,45,0.375,5,5,,No,6,17
+Utah Jazz_1990-91,1990,1990-91,Utah Jazz,Salt Lake City,Salt Lake City,792000,21225081,54,28,0.659,2,7,Lost W. Conf. Semis,Yes,4,5
+Utah Jazz_1991-92,1991,1991-92,Utah Jazz,Salt Lake City,Salt Lake City,801000,24189312,55,27,0.671,1,6,Lost W. Conf. Finals,Yes,3,3
+Utah Jazz_1992-93,1992,1992-93,Utah Jazz,Salt Lake City,Salt Lake City,811000,26693570,47,35,0.573,3,6,Lost W. Conf. 1st Rnd.,Yes,5,9
+Utah Jazz_1993-94,1993,1993-94,Utah Jazz,Salt Lake City,Salt Lake City,820000,30332202,53,29,0.646,3,6,Lost W. Conf. Finals,Yes,3,3
+Utah Jazz_1994-95,1994,1994-95,Utah Jazz,Salt Lake City,Salt Lake City,830000,32588580,60,22,0.732,2,6,Lost W. Conf. 1st Rnd.,Yes,5,9
+Utah Jazz_1995-96,1995,1995-96,Utah Jazz,Salt Lake City,Salt Lake City,840000,37952784,55,27,0.671,2,7,Lost W. Conf. Finals,Yes,3,3
+Utah Jazz_1996-97,1996,1996-97,Utah Jazz,Salt Lake City,Salt Lake City,849000,41568318,64,18,0.78,1,7,Lost Finals,Yes,2,2
+Utah Jazz_1997-98,1997,1997-98,Utah Jazz,Salt Lake City,Salt Lake City,859000,45842898,62,20,0.756,1,7,Lost Finals,Yes,2,2
+Utah Jazz_1998-99,1998,1998-99,Utah Jazz,Salt Lake City,Salt Lake City,870000,47919491,37,13,0.74,2,7,Lost W. Conf. Semis,Yes,4,5
+Utah Jazz_1999-00,1999,1999-00,Utah Jazz,Salt Lake City,Salt Lake City,880000,78096701,55,27,0.671,1,7,Lost W. Conf. Semis,Yes,4,5
+Utah Jazz_2000-01,2000,2000-01,Utah Jazz,Salt Lake City,Salt Lake City,891000,80589757,53,29,0.646,2,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Utah Jazz_2001-02,2001,2001-02,Utah Jazz,Salt Lake City,Salt Lake City,903000,76241809,44,38,0.537,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Utah Jazz_2002-03,2002,2002-03,Utah Jazz,Salt Lake City,Salt Lake City,916000,72989400,47,35,0.573,4,7,Lost W. Conf. 1st Rnd.,Yes,5,9
+Utah Jazz_2003-04,2003,2003-04,Utah Jazz,Salt Lake City,Salt Lake City,929000,48763441,42,40,0.512,7,7,,No,6,17
+Utah Jazz_2004-05,2004,2004-05,Utah Jazz,Salt Lake City,Salt Lake City,942000,59136697,26,56,0.317,5,5,,No,6,17
+Utah Jazz_2005-06,2005,2005-06,Utah Jazz,Salt Lake City,Salt Lake City,955000,76044013,41,41,0.5,2,5,,No,6,17
+Utah Jazz_2006-07,2006,2006-07,Utah Jazz,Salt Lake City,Salt Lake City,969000,79237774,51,31,0.622,1,5,Lost W. Conf. Finals,Yes,3,3
+Utah Jazz_2007-08,2007,2007-08,Utah Jazz,Salt Lake City,Salt Lake City,983000,80374831,54,28,0.659,1,5,Lost W. Conf. Semis,Yes,4,5
+Utah Jazz_2008-09,2008,2008-09,Utah Jazz,Salt Lake City,Salt Lake City,996000,77571077,48,34,0.585,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Utah Jazz_2009-10,2009,2009-10,Utah Jazz,Salt Lake City,Salt Lake City,1011000,85941383,53,29,0.646,2,5,Lost W. Conf. Semis,Yes,4,5
+Utah Jazz_2010-11,2010,2010-11,Utah Jazz,Salt Lake City,Salt Lake City,1025000,89717461,39,43,0.476,4,5,,No,6,17
+Utah Jazz_2011-12,2011,2011-12,Utah Jazz,Salt Lake City,Salt Lake City,1039000,66445081,36,30,0.545,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Utah Jazz_2012-13,2012,2012-13,Utah Jazz,Salt Lake City,Salt Lake City,1054000,73760110,43,39,0.524,3,5,,No,6,17
+Utah Jazz_2013-14,2013,2013-14,Utah Jazz,Salt Lake City,Salt Lake City,1069000,62832932,25,57,0.305,5,5,,No,6,17
+Utah Jazz_2014-15,2014,2014-15,Utah Jazz,Salt Lake City,Salt Lake City,1084000,65814018,38,44,0.463,3,5,,No,6,17
+Utah Jazz_2015-16,2015,2015-16,Utah Jazz,Salt Lake City,Salt Lake City,1099000,68715203,40,42,0.488,3,5,,No,6,17
+Utah Jazz_2016-17,2016,2016-17,Utah Jazz,Salt Lake City,Salt Lake City,1115000,85717182,51,31,0.622,1,5,Lost W. Conf. Semis,Yes,4,5
+Utah Jazz_2017-18,2017,2017-18,Utah Jazz,Salt Lake City,Salt Lake City,1131000,111143366,48,34,0.585,3,5,Lost W. Conf. Semis,Yes,4,5
+Utah Jazz_2018-19,2018,2018-19,Utah Jazz,Salt Lake City,Salt Lake City,1147000,116449685,50,32,0.61,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Utah Jazz_2019-20,2019,2019-20,Utah Jazz,Salt Lake City,Salt Lake City,1158000,119678146,44,28,0.611,3,5,Lost W. Conf. 1st Rnd.,Yes,5,9
+Utah Jazz_2020-21,2020,2020-21,Utah Jazz,Salt Lake City,Salt Lake City,1169000,136881324,52,20,0.722,1,5,Lost W. Conf. Semis,Yes,4,5
+Washington Bullets_1990-91,1990,1990-91,Washington Bullets,Washington DC,Washington DC,3376000,19071812,30,52,0.366,4,6,,No,6,17
+Washington Bullets_1991-92,1991,1991-92,Washington Bullets,Washington DC,Washington DC,3430000,23946680,25,57,0.305,6,7,,No,6,17
+Washington Bullets_1992-93,1992,1992-93,Washington Bullets,Washington DC,Washington DC,3484000,31717113,22,60,0.268,7,7,,No,6,17
+Washington Bullets_1993-94,1993,1993-94,Washington Bullets,Washington DC,Washington DC,3539000,28993225,24,58,0.293,7,7,,No,6,17
+Washington Bullets_1994-95,1994,1994-95,Washington Bullets,Washington DC,Washington DC,3595000,29698467,21,61,0.256,7,7,,No,6,17
+Washington Bullets_1995-96,1995,1995-96,Washington Bullets,Washington DC,Washington DC,3651000,37569045,39,43,0.476,4,7,,No,6,17
+Washington Bullets_1996-97,1996,1996-97,Washington Bullets,Washington DC,Washington DC,3709000,57481977,44,38,0.537,4,7,Lost E. Conf. 1st Rnd.,Yes,5,9
+Washington Wizards_1997-98,1997,1997-98,Washington Wizards,Washington DC,Washington DC,3768000,65483447,42,40,0.512,4,7,,No,6,17
+Washington Wizards_1998-99,1998,1998-99,Washington Wizards,Washington DC,Washington DC,3827000,53802860,18,32,0.36,6,7,,No,6,17
+Washington Wizards_1999-00,1999,1999-00,Washington Wizards,Washington DC,Washington DC,3888000,82511226,29,53,0.354,7,7,,No,6,17
+Washington Wizards_2000-01,2000,2000-01,Washington Wizards,Washington DC,Washington DC,3949000,88353738,19,63,0.232,7,7,,No,6,17
+Washington Wizards_2001-02,2001,2001-02,Washington Wizards,Washington DC,Washington DC,4010000,79332075,37,45,0.451,5,7,,No,6,17
+Washington Wizards_2002-03,2002,2002-03,Washington Wizards,Washington DC,Washington DC,4072000,66908545,37,45,0.451,5,7,,No,6,17
+Washington Wizards_2003-04,2003,2003-04,Washington Wizards,Washington DC,Washington DC,4135000,64109492,25,57,0.305,6,7,,No,6,17
+Washington Wizards_2004-05,2004,2004-05,Washington Wizards,Washington DC,Washington DC,4199000,67672794,45,37,0.549,2,5,Lost E. Conf. Semis,Yes,4,5
+Washington Wizards_2005-06,2005,2005-06,Washington Wizards,Washington DC,Washington DC,4264000,72310323,42,40,0.512,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Washington Wizards_2006-07,2006,2006-07,Washington Wizards,Washington DC,Washington DC,4330000,79707044,41,41,0.5,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Washington Wizards_2007-08,2007,2007-08,Washington Wizards,Washington DC,Washington DC,4397000,80770657,43,39,0.524,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Washington Wizards_2008-09,2008,2008-09,Washington Wizards,Washington DC,Washington DC,4465000,83346268,19,63,0.232,5,5,,No,6,17
+Washington Wizards_2009-10,2009,2009-10,Washington Wizards,Washington DC,Washington DC,4534000,87776055,26,56,0.317,5,5,,No,6,17
+Washington Wizards_2010-11,2010,2010-11,Washington Wizards,Washington DC,Washington DC,4604000,68983576,23,59,0.28,5,5,,No,6,17
+Washington Wizards_2011-12,2011,2011-12,Washington Wizards,Washington DC,Washington DC,4676000,63256713,20,46,0.303,4,5,,No,6,17
+Washington Wizards_2012-13,2012,2012-13,Washington Wizards,Washington DC,Washington DC,4748000,67084795,29,53,0.354,3,5,,No,6,17
+Washington Wizards_2013-14,2013,2013-14,Washington Wizards,Washington DC,Washington DC,4821000,71429870,44,38,0.537,2,5,Lost E. Conf. Semis,Yes,4,5
+Washington Wizards_2014-15,2014,2014-15,Washington Wizards,Washington DC,Washington DC,4896000,79361804,46,36,0.561,2,5,Lost E. Conf. Semis,Yes,4,5
+Washington Wizards_2015-16,2015,2015-16,Washington Wizards,Washington DC,Washington DC,4972000,91883782,41,41,0.5,4,5,,No,6,17
+Washington Wizards_2016-17,2016,2016-17,Washington Wizards,Washington DC,Washington DC,5049000,111257914,49,33,0.598,1,5,Lost E. Conf. Semis,Yes,4,5
+Washington Wizards_2017-18,2017,2017-18,Washington Wizards,Washington DC,Washington DC,5127000,129770841,43,39,0.524,2,5,Lost E. Conf. 1st Rnd.,Yes,5,9
+Washington Wizards_2018-19,2018,2018-19,Washington Wizards,Washington DC,Washington DC,5207000,126599790,32,50,0.39,4,5,,No,6,17
+Washington Wizards_2019-20,2019,2019-20,Washington Wizards,Washington DC,Washington DC,5264000,122079496,25,47,0.347,4,5,,No,6,17
+Washington Wizards_2020-21,2020,2020-21,Washington Wizards,Washington DC,Washington DC,5322000,131294012,34,38,0.472,3,5,Lost E. Conf. 1st Rnd.,Yes,5,9
